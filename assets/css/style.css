@@ -1059,4 +1059,13 @@ header {
     background-color: white;
     color: #d4507a;
   }
+
+  #nav-toggle:checked + .nav-toggle-label + .nav-links {
+    width: 100%;
+    display: block;
+    top: 100%;
+    position: absolute;
+    display: block;
+    background-color: white;
+  }
 }
