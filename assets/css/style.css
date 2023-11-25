@@ -284,3 +284,67 @@ header {
   color: #d4507a;
   margin-bottom: 40px;
 }
+
+.what-we-do-first-half {
+  margin-bottom: 30px;
+}
+
+.what-we-do-first-half,
+.what-we-do-second-half {
+  gap: 1rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.dog-day-care {
+  padding: 40px;
+  background-color: #d4507a;
+  width: 40%;
+  color: white;
+  border-radius: 15px;
+}
+
+.dog-training {
+  border-radius: 15px;
+  padding: 52.2px 40px;
+  color: #131313;
+  background-color: rgba(234, 234, 234, 0.275);
+  width: 60%;
+}
+
+.health-welness {
+  border-radius: 15px;
+  padding: 52.2px 40px;
+  color: #131313;
+  background-color: rgba(242, 242, 242, 0.3);
+  width: 60%;
+}
+
+.puppy-training {
+  padding: 40px;
+  background-color: #d4507a;
+  width: 40%;
+  color: white;
+  border-radius: 15px;
+}
+
+.dog-day-care-header h2,
+.dog-training-header h2,
+.health-welness h2,
+.puppy-training h2 {
+  font-size: 2rem;
+  margin-bottom: 10px;
+}
+
+.dog-day-care-content p,
+.dog-training-content p,
+.health-welness p,
+.puppy-training p {
+  margin-bottom: 15px;
+}
+
+#what-we-do i {
+  padding-right: 9px;
+  font-size: 1.2rem;
+}
