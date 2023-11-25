@@ -360,3 +360,26 @@ header {
   justify-content: space-between;
   align-items: center;
 }
+.location-img-container,
+.location-map-container {
+  width: 50%;
+}
+
+.location-img {
+  max-width: 90%;
+  height: auto;
+}
+
+.location-map {
+  width: 100%;
+  height: 500px;
+  border-radius: 15px;
+}
+
+.location-header h2 {
+  margin-bottom: 50px;
+  font-size: 4rem;
+  text-align: center;
+  font-style: italic;
+  color: #d4507a;
+}
