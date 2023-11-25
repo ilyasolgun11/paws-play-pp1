@@ -1128,4 +1128,15 @@ header {
   .eligibility-img {
     margin-left: 40px;
   }
+
+  /* Eligibility page styles  */
+  /* Eligibility page header section */
+  .eligibility-page-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-direction: column;
+    width: 100%;
+    height: 80vh;
+  }
 }
