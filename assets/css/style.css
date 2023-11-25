@@ -1102,7 +1102,7 @@ header {
   .hero-img {
     margin-left: 80px;
     height: 100%;
-    width: 99%;
+    width: 80%;
     object-fit: contain;
   }
 
