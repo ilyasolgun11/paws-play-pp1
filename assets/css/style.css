@@ -827,3 +827,7 @@ header {
 .copyright-container h3 {
   font-weight: 500;
 }
+
+/* Screen sizes smaller than 997px */
+@media screen and (max-width: 997px) {
+}
