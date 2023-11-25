@@ -1382,4 +1382,10 @@ header {
     margin-bottom: 100px;
     flex-direction: column;
   }
+
+  /* What we do  */
+
+  .what-we-do-header {
+    font-size: 2.2rem;
+  }
 }
