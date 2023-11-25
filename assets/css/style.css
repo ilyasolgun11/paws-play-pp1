@@ -357,6 +357,16 @@ header {
   margin-top: 50px;
 }
 
+/* Eligibility page main - form section  */
+
+#eligibility-page-form {
+  margin-top: 130px;
+  margin-bottom: 500px;
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+}
+
 /* What we do */
 .what-we-do-header {
   font-size: 4rem;
