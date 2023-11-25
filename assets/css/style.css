@@ -1095,4 +1095,37 @@ header {
     margin-bottom: 400px;
     flex-direction: column;
   }
+
+  .eligibility-content {
+    order: 1;
+    width: 100%;
+  }
+
+  .eligibility-img-container {
+    width: 100%;
+    order: 0;
+  }
+
+  .eligibility-content h2:nth-of-type(1) {
+    width: 100%;
+    font-size: 1.7rem;
+    margin-bottom: -7px;
+  }
+
+  .eligibility-content h2:nth-of-type(2) {
+    width: 100%;
+    font-size: 1.7rem;
+    margin: 0;
+    margin-bottom: 10px;
+  }
+
+  .eligibility-content p {
+    width: 100%;
+  }
+  .eligibility-btn {
+    margin-bottom: 20px;
+  }
+  .eligibility-img {
+    margin-left: 40px;
+  }
 }
