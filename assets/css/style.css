@@ -38,3 +38,82 @@ body {
   font-family: "Poppins", sans-serif;
   box-sizing: border-box;
 }
+
+/* Nav Styles */
+nav {
+  max-width: 1400px;
+  margin: 0 auto;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 5px 0;
+}
+
+.logo {
+  margin-left: 15px;
+  color: #131313;
+  text-decoration: none;
+  font-weight: 600;
+  font-size: 1.2rem;
+}
+
+.fa-paw {
+  color: #d4507a;
+  transition: transform 0.5s ease;
+}
+
+.logo:hover .fa-solid.fa-paw {
+  transform: rotate(45deg);
+}
+
+.nav-links {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.nav-links ul {
+  padding: 15px;
+  display: flex;
+  align-items: center;
+  list-style-type: none;
+}
+
+.nav-links ul li a {
+  text-decoration: none;
+  color: #131313;
+  margin-right: 20px;
+}
+
+.nav-links ul li .active {
+  color: #d4507a;
+}
+
+.nav-links ul li a:hover {
+  color: #d4507a;
+  transition: all 0.1s ease;
+}
+
+.sign-up-btn {
+  background-color: #d4507a;
+  color: white;
+  border: none;
+  padding: 13px 25px;
+  border-radius: 50px;
+  font-size: 0.95rem;
+}
+
+.sign-up-btn:hover {
+  background-color: #131313;
+  cursor: pointer;
+  transition: all 0.2s ease;
+}
+
+#nav-toggle {
+  display: none;
+}
+
+.nav-toggle-label {
+  margin-right: 12px;
+  display: none;
+}
