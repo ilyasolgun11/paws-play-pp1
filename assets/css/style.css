@@ -1388,4 +1388,9 @@ header {
   .what-we-do-header {
     font-size: 2.2rem;
   }
+
+  /* Location */
+  .location-header h2 {
+    font-size: 2.8rem;
+  }
 }
