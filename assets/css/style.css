@@ -540,7 +540,9 @@ header {
 #vaccinated-yes,
 #vaccinated-no,
 #received-recent-treatment-yes,
-#received-recent-treatment-no {
+#received-recent-treatment-no,
+#attended-day-care-yes,
+#attended-day-care-no {
   cursor: pointer;
   width: 15px;
   height: 15px;
