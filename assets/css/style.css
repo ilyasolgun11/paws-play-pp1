@@ -416,7 +416,8 @@ header {
 .vaccinations-first,
 .vaccinations-second,
 .behavior-first,
-.behavior-second {
+.behavior-second,
+.socialization-first {
   margin-top: 10px;
   display: flex;
   justify-content: space-between;
@@ -475,7 +476,8 @@ header {
 .vaccinations-first-header-container h3,
 .vaccinations-second-header-container h3,
 .behavior-first-header-container h3,
-.behavior-second-header-container h3 {
+.behavior-second-header-container h3,
+.socialization-first-header-container h3 {
   color: #131313;
   margin-left: 3px;
   font-weight: 500;
@@ -484,7 +486,8 @@ header {
 .general-details-third-radio-container,
 .general-details-fourth-radio-container,
 .vaccinations-first-radio-container,
-.vaccinations-second-radio-container {
+.vaccinations-second-radio-container,
+.socialization-first-radio-container {
   display: flex;
   gap: 0.4rem;
 }
@@ -504,7 +507,9 @@ header {
 .vaccinated-yes,
 .vaccinated-no,
 .received-recent-treatment-yes,
-.received-recent-treatment-no {
+.received-recent-treatment-no,
+.attended-day-care-no,
+.attended-day-care-yes {
   cursor: pointer;
   display: flex;
   justify-content: space-between;
@@ -524,7 +529,7 @@ header {
   background-color: #efefef;
   border-radius: 20px;
   color: #131313;
-  margin: 5px 0;
+  margin: 5px;
   padding: 6px 20px;
 }
 
@@ -1284,6 +1289,7 @@ header {
     padding: 12px 20px;
     width: 100%;
     display: flex;
+    margin: 5px 0;
     justify-content: space-between;
     align-items: center;
   }
