@@ -1339,4 +1339,23 @@ header {
   .what-we-do-header {
     font-size: 2.8rem;
   }
+
+  /* Location */
+
+  .location-header h2 {
+    font-size: 3.5rem;
+  }
+
+  .location-img {
+    width: 80%;
+    margin-left: 60px;
+  }
+
+  .location-img-container {
+    margin-bottom: 30px;
+  }
+
+  .location-map {
+    height: 400px;
+  }
 }
