@@ -214,3 +214,64 @@ header {
   justify-content: space-between;
   align-items: center;
 }
+
+#eligibility {
+  margin-bottom: 100px;
+  overflow: hidden;
+  width: 100%;
+  height: auto;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.eligibility-content {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.eligibility-content h2,
+.eligibility-content p {
+  text-align: center;
+  max-width: 500px;
+}
+
+.eligibility-content h2:nth-of-type(1) {
+  font-size: 2.3rem;
+  margin-bottom: -7px;
+}
+
+.eligibility-content h2:nth-of-type(2) {
+  font-size: 2.3rem;
+  margin: 0;
+}
+
+.eligibility-btn {
+  border: none;
+  padding: 15px 40px;
+  color: white;
+  background-color: #d4507a;
+  font-size: 1.1rem;
+  border-radius: 50px;
+  margin-top: 15px;
+}
+
+.eligibility-btn:hover {
+  background-color: #131313;
+  cursor: pointer;
+  transition: all 0.2s ease;
+}
+
+.eligibility-img-container {
+  width: 50%;
+  height: 100%;
+}
+
+.eligibility-img {
+  object-fit: contain;
+  width: 99%;
+  height: auto;
+  margin-left: 70px;
+}
