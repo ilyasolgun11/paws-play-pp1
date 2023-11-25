@@ -1240,7 +1240,8 @@ header {
   .vaccinations-second,
   .behavior-first,
   .behavior-second,
-  .socialization-first {
+  .socialization-first,
+  .socialization-second {
     margin-top: 7px;
     flex-direction: column;
   }
@@ -1284,7 +1285,8 @@ header {
   .vaccinations-second-header-container h3,
   .behavior-first-header-container h3,
   .behavior-second-header-container h3,
-  .socialization-first-header-container h3 {
+  .socialization-first-header-container h3,
+  .socialization-second-header-container h3 {
     font-size: 1rem;
   }
 
@@ -1292,7 +1294,8 @@ header {
   .general-details-fourth-radio-container,
   .vaccinations-first-radio-container,
   .vaccinations-second-radio-container,
-  .socialization-first-radio-container {
+  .socialization-first-radio-container,
+  .socialization-second-radio-container {
     width: 100%;
   }
 
@@ -1316,7 +1319,10 @@ header {
   .received-recent-treatment-yes,
   .received-recent-treatment-no,
   .attended-day-care-yes,
-  .attended-day-care-no {
+  .attended-day-care-no,
+  .basic-commands-sit,
+  .basic-commands-stay,
+  .basic-commands-come {
     width: 100%;
     padding: 12px 20px;
   }
