@@ -978,3 +978,7 @@ header {
     font-size: 1.9rem;
   }
 }
+
+/* Screen sizes smaller than 786px */
+@media screen and (max-width: 786px) {
+}
