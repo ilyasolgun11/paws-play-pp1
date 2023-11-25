@@ -39,8 +39,7 @@ body {
   box-sizing: border-box;
 }
 
-/* Main, Header and Footer container Styles */
-
+/* Main, Header, Eligibility-page-form and Footer container Styles */
 main,
 header,
 #eligibility-page-form,
@@ -947,6 +946,7 @@ header {
 
   /* Eligibility page main - form section  */
   #eligibility-page-form {
+    padding: 0;
     flex-direction: column;
     margin-bottom: 10px;
   }
