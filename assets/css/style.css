@@ -42,7 +42,8 @@ body {
 /* Main and Header Styles */
 
 main,
-header {
+header,
+.footer-container {
   position: sticky;
   max-width: 1400px;
   margin: 0 auto;
