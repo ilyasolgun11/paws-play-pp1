@@ -1209,4 +1209,128 @@ header {
   .general-details-fourth {
     margin-top: 17px;
   }
+
+  .eligibility-form-second-stick h2 {
+    text-align: center;
+  }
+
+  .general-details h2 {
+    font-size: 2rem;
+    text-align: center;
+  }
+
+  .behavior-first,
+  .behavior-second {
+    width: 100%;
+    flex-direction: column;
+  }
+
+  .behavior-second {
+    margin-top: 25px;
+  }
+
+  .behavior-first-header-container,
+  .behavior-second-header-container {
+    width: 100%;
+  }
+
+  .general-details-third h3,
+  .general-details-fourth h3,
+  .vaccinations-first-header-container h3,
+  .vaccinations-second-header-container h3,
+  .behavior-first-header-container h3,
+  .behavior-second-header-container h3 {
+    font-size: 1rem;
+  }
+
+  .general-details-third-radio-container,
+  .general-details-fourth-radio-container,
+  .vaccinations-first-radio-container,
+  .vaccinations-second-radio-container {
+    width: 100%;
+  }
+
+  .behavior-first-radio-container,
+  .behavior-second-radio-container {
+    display: contents;
+    width: 100%;
+  }
+
+  #eligibility-page-form .general-details-first input,
+  #eligibility-page-form .general-details-second input {
+    padding: 19px 20px;
+  }
+
+  .neutered-yes,
+  .neutered-no,
+  .medical-no,
+  .medical-yes,
+  .vaccinated-yes,
+  .vaccinated-no,
+  .received-recent-treatment-yes,
+  .received-recent-treatment-no {
+    width: 100%;
+    padding: 12px 20px;
+  }
+
+  .interactions-superb,
+  .interactions-good,
+  .interactions-normal,
+  .interactions-cautious,
+  .interactions-aggressive {
+    padding: 12px 20px;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+
+  .vaccinations h2,
+  .behavior h2 {
+    font-size: 2rem;
+  }
+
+  .eligibility-personal-info-first {
+    margin-bottom: 7px;
+  }
+
+  .eligibility-personal-info-first,
+  .eligibility-personal-info-second {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-direction: column;
+    width: 100%;
+    gap: 0.4rem;
+  }
+
+  .eligibility-personal-info-first input,
+  .eligibility-personal-info-second input {
+    width: 100%;
+    padding: 19px 20px;
+  }
+
+  .confirmation {
+    cursor: pointer;
+    font-size: 0.8rem;
+    margin-left: 0px;
+  }
+
+  .confirmation input {
+    width: 12px;
+    height: 12px;
+  }
+
+  .eligibility-form-second button {
+    cursor: pointer;
+    margin-top: 15px;
+    width: 100%;
+    padding: 13px;
+    border: none;
+    background-color: #d4507a;
+    color: white;
+    font-size: 1.3rem;
+    border-radius: 20px;
+  }
 }
