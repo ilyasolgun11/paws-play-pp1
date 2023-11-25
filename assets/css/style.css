@@ -995,7 +995,6 @@ header {
 @media screen and (max-width: 786px) {
   /* Main, Header and Footer container Styles */
   main,
-  header,
   .footer-container {
     padding: 0px;
   }
