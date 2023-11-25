@@ -275,3 +275,12 @@ header {
   height: auto;
   margin-left: 70px;
 }
+
+/* What we do */
+.what-we-do-header {
+  font-size: 4rem;
+  text-align: center;
+  font-style: italic;
+  color: #d4507a;
+  margin-bottom: 40px;
+}
