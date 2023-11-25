@@ -1095,9 +1095,9 @@ header {
     font-size: 1rem;
   }
   .hero-img {
-    margin-left: 80px;
+    margin-left: 60px;
     height: 100%;
-    width: 80%;
+    width: 85%;
     object-fit: contain;
   }
 
@@ -1140,8 +1140,8 @@ header {
     margin-bottom: 20px;
   }
   .eligibility-img {
-    width: 70%;
-    margin-left: 75px;
+    width: 75%;
+    margin-left: 65px;
   }
 
   /* Eligibility page styles  */
