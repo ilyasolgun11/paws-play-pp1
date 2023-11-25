@@ -993,12 +993,6 @@ header {
 
 /* Screen sizes smaller than 786px */
 @media screen and (max-width: 786px) {
-  /* Main, Header and Footer container Styles */
-  main,
-  .footer-container {
-    padding: 0px;
-  }
-
   /* Nav Styles */
   .logo {
     font-size: 1.4rem;
