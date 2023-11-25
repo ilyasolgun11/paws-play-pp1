@@ -43,6 +43,7 @@ body {
 
 main,
 header,
+#eligibility-page-form,
 .footer-container {
   position: sticky;
   max-width: 1400px;
