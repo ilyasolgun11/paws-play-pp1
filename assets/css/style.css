@@ -1145,7 +1145,8 @@ header {
     margin-bottom: 20px;
   }
   .eligibility-img {
-    margin-left: 40px;
+    width: 70%;
+    margin-left: 75px;
   }
 
   /* Eligibility page styles  */
