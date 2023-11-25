@@ -845,4 +845,45 @@ header {
     width: 230px;
     right: 10px;
   }
+
+  /* What we do */
+  #what-we-do {
+    margin-top: 140px;
+  }
+
+  .what-we-do-first-half {
+    margin-bottom: 1rem;
+  }
+
+  .what-we-do-first-half,
+  .what-we-do-second-half {
+    gap: 1rem;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-direction: column;
+  }
+
+  .dog-day-care,
+  .dog-training,
+  .health-welness,
+  .puppy-training {
+    width: 100%;
+  }
+
+  .dog-day-care {
+    order: 0;
+  }
+
+  .dog-training {
+    order: 1;
+  }
+
+  .puppy-training {
+    order: 2;
+  }
+
+  .health-welness {
+    order: 3;
+  }
 }
