@@ -1179,4 +1179,12 @@ header {
     width: 250px;
     left: -10px;
   }
+
+  /* Eligibility page main - video section  */
+
+  .eligibility-video-container {
+    margin-top: 100px;
+    width: 100%;
+    height: 100%;
+  }
 }
