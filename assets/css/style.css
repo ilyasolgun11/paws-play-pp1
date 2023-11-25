@@ -1362,4 +1362,16 @@ header {
 
 /* Screen sizes smaller than 600px */
 @media screen and (max-width: 600px) {
+  /* Header */
+  .hero-content h1 {
+    font-size: 1.5rem;
+  }
+  .hero-underline {
+    width: 210px;
+    right: 20px;
+    bottom: -30px;
+  }
+  .hero-content h2 {
+    margin-bottom: 40px;
+  }
 }
