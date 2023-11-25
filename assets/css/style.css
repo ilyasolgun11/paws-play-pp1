@@ -1204,6 +1204,12 @@ header {
   }
 
   /* Eligibility page main - form section  */
+  .eligibility-form-first,
+  .eligibility-form-second {
+    margin-top: 30px;
+    padding: 20px 10px;
+  }
+
   .general-details-first,
   .general-details-second,
   .general-details-third,
