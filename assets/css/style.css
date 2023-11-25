@@ -367,6 +367,85 @@ header {
   justify-content: space-between;
 }
 
+.eligibility-form-first {
+  color: #131313;
+  border-radius: 10px;
+  padding: 20px 30px;
+  width: 100%;
+}
+
+.eligibility-form-second {
+  top: 0px;
+  padding: 0px 30px;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  z-index: 1;
+}
+
+.eligibility-form-second-stick {
+  padding-top: 80px;
+  position: sticky;
+  top: 0;
+  z-index: 1;
+}
+
+.eligibility-form-second-stick h2 {
+  font-size: 2rem;
+  margin-bottom: 14px;
+  display: none;
+}
+
+.placeholder-div {
+  height: 100%;
+  width: 100%;
+}
+
+.general-details h2 {
+  font-size: 2rem;
+  margin-bottom: 14px;
+}
+
+.general-details-first,
+.general-details-second,
+.general-details-third,
+.general-details-fourth,
+.vaccinations-first,
+.vaccinations-second,
+.behavior-first,
+.behavior-second {
+  margin-top: 10px;
+  display: flex;
+  justify-content: space-between;
+  gap: 0.4rem;
+}
+
+.behavior-second {
+  margin-top: 25px;
+}
+
+#eligibility-page-form .general-details-first input,
+#eligibility-page-form .general-details-second input {
+  width: 100%;
+  padding: 14px 20px;
+  border: none;
+  border-radius: 20px;
+  background-color: #efefef;
+  color: #131313;
+  font-size: 0.9rem;
+}
+
+#eligibility-page-form .general-details-first input:focus,
+#eligibility-page-form .general-details-second input:focus {
+  outline: none;
+}
+
+#eligibility-page-form .general-details-first input:active,
+#eligibility-page-form .general-details-second input:active {
+  outline: none;
+}
+
 /* What we do */
 .what-we-do-header {
   font-size: 4rem;
