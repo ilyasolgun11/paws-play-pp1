@@ -446,6 +446,165 @@ header {
   outline: none;
 }
 
+.general-details-third-header-container,
+.general-details-fourth-header-container,
+.vaccinations-first-header-container,
+.vaccinations-second-header-container,
+.behavior-first-header-container {
+  display: flex;
+  align-items: center;
+}
+
+.behavior-first-header-container,
+.behavior-second-header-container {
+  width: 50%;
+}
+
+.general-details-third h3,
+.general-details-fourth h3,
+.vaccinations-first-header-container h3,
+.vaccinations-second-header-container h3,
+.behavior-first-header-container h3,
+.behavior-second-header-container h3 {
+  color: #131313;
+  margin-left: 3px;
+  font-weight: 500;
+}
+
+.general-details-third-radio-container,
+.general-details-fourth-radio-container,
+.vaccinations-first-radio-container,
+.vaccinations-second-radio-container {
+  display: flex;
+  gap: 0.4rem;
+}
+
+.behavior-first-radio-container,
+.behavior-second-radio-container {
+  display: flex;
+  justify-content: flex-end;
+  flex-wrap: wrap;
+  flex-basis: 400px;
+}
+
+.neutered-yes,
+.neutered-no,
+.medical-no,
+.medical-yes,
+.vaccinated-yes,
+.vaccinated-no,
+.received-recent-treatment-yes,
+.received-recent-treatment-no {
+  cursor: pointer;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #efefef;
+  padding: 6px 20px;
+  border-radius: 20px;
+  color: #131313;
+}
+
+.interactions-superb,
+.interactions-good,
+.interactions-normal,
+.interactions-cautious,
+.interactions-aggressive {
+  cursor: pointer;
+  background-color: #efefef;
+  border-radius: 20px;
+  color: #131313;
+  margin: 5px;
+  padding: 6px 20px;
+}
+
+#neutered-yes,
+#neutered-no,
+#medical-yes,
+#medical-no,
+#vaccinated-yes,
+#vaccinated-no,
+#received-recent-treatment-yes,
+#received-recent-treatment-no {
+  cursor: pointer;
+  width: 15px;
+  height: 15px;
+  margin-left: 10px;
+}
+
+#interactions-superb,
+#interactions-good,
+#interactions-normal,
+#interactions-cautious,
+#interactions-aggressive,
+#interactions-superb2,
+#interactions-good2,
+#interactions-normal2,
+#interactions-cautious2,
+#interactions-aggressive2 {
+  cursor: pointer;
+  width: 15px;
+  height: 15px;
+  margin-bottom: 2px;
+  vertical-align: middle;
+}
+
+.vaccinations h2,
+.behavior h2 {
+  font-size: 2rem;
+  margin-bottom: 14px;
+  margin-top: 100px;
+}
+
+.eligibility-personal-info-first {
+  margin-bottom: 10px;
+}
+
+.eligibility-personal-info-first,
+.eligibility-personal-info-second {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+  gap: 0.4rem;
+}
+
+.eligibility-personal-info-first input,
+.eligibility-personal-info-second input {
+  width: 100%;
+  padding: 14px 20px;
+  border: none;
+  border-radius: 20px;
+  background-color: #efefef;
+  color: #131313;
+  font-size: 0.9rem;
+}
+
+.confirmation {
+  font-size: 1.1rem;
+  margin-left: 3px;
+}
+
+.confirmation input {
+  margin-top: 16px;
+  width: 13px;
+  height: 13px;
+  cursor: pointer;
+  margin-left: 5px;
+}
+
+.eligibility-form-second button {
+  cursor: pointer;
+  margin-top: 15px;
+  width: 100%;
+  padding: 13px;
+  border: none;
+  background-color: #d4507a;
+  color: white;
+  font-size: 1.3rem;
+  border-radius: 20px;
+}
+
 /* What we do */
 .what-we-do-header {
   font-size: 4rem;
