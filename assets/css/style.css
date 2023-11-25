@@ -981,4 +981,19 @@ header {
 
 /* Screen sizes smaller than 786px */
 @media screen and (max-width: 786px) {
+  /* Nav Styles */
+  .logo {
+    font-size: 1.4rem;
+  }
+
+  .nav-toggle-label {
+    font-size: 1.3rem;
+    color: #131313;
+    display: block;
+    cursor: pointer;
+  }
+
+  .nav-links {
+    display: none;
+  }
 }
