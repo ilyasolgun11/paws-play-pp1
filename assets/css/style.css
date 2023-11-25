@@ -1359,3 +1359,7 @@ header {
     height: 400px;
   }
 }
+
+/* Screen sizes smaller than 600px */
+@media screen and (max-width: 600px) {
+}
