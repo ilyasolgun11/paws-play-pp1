@@ -1086,4 +1086,13 @@ header {
     width: 99%;
     object-fit: contain;
   }
+
+  /* Main Section */
+  /* Eligibility */
+
+  #eligibility {
+    margin-top: 300px;
+    margin-bottom: 400px;
+    flex-direction: column;
+  }
 }
