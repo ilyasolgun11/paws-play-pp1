@@ -1078,6 +1078,7 @@ header {
     position: absolute;
     display: block;
     background-color: white;
+    z-index: 20;
   }
 
   /* Header Styles */
