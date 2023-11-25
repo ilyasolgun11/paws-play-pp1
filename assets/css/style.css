@@ -29,3 +29,12 @@ a {
   text-decoration: none;
   color: inherit;
 }
+
+/* Body Styles */
+body {
+  scroll-behavior: smooth;
+  position: relative;
+  overflow-x: hidden;
+  font-family: "Poppins", sans-serif;
+  box-sizing: border-box;
+}
