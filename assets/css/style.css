@@ -348,3 +348,15 @@ header {
   padding-right: 9px;
   font-size: 1.2rem;
 }
+
+/* Location */
+#location {
+  margin-top: 170px;
+}
+
+.location {
+  margin-top: 20px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
