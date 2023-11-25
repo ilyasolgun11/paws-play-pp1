@@ -287,6 +287,64 @@ header {
   height: 80vh;
 }
 
+.eligibility-page-hero-first {
+  width: 70%;
+  height: auto;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+
+.eligibility-page-hero-second {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.eligibility-page-hero-img {
+  width: 90%;
+  height: 90%;
+  object-fit: contain;
+}
+
+.eligibility-page-hero-second h2 {
+  position: relative;
+  color: #131313;
+  font-size: 4.1rem;
+  margin-bottom: 40px;
+}
+
+.eligibility-page-underline {
+  position: absolute;
+  top: 80px;
+  width: 300px;
+  left: 0px;
+}
+
+.eligibility-page-hero-second p {
+  text-align: center;
+  max-width: 500px;
+}
+
+.eligibility-page-hero-second button {
+  border: none;
+  padding: 15px 40px;
+  color: white;
+  background-color: #d4507a;
+  font-size: 1.1rem;
+  border-radius: 50px;
+  margin-top: 15px;
+}
+
+.eligibility-page-hero-second button:hover {
+  background-color: #131313;
+  cursor: pointer;
+  transition: all 0.2s ease;
+}
+
 /* What we do */
 .what-we-do-header {
   font-size: 4rem;
