@@ -126,3 +126,68 @@ header {
   height: 80vh;
   width: 100%;
 }
+
+.hero-img-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 60%;
+  height: 100%;
+}
+
+.hero-img {
+  height: auto;
+  width: 100%;
+  object-fit: contain;
+}
+
+.hero-content {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.hero-content h1 {
+  font-size: 2.5rem;
+  margin-bottom: 0px;
+}
+
+.hero-content h1,
+.hero-content p {
+  max-width: 600px;
+  text-align: center;
+}
+
+.hero-content h2 {
+  margin-top: 0;
+  margin-bottom: 60px;
+  font-size: 2.5rem;
+  position: relative;
+}
+
+.hero-underline {
+  position: absolute;
+  width: 270px;
+  bottom: -40px;
+  right: 20px;
+}
+
+.hero-content p {
+  margin-bottom: 25px;
+}
+
+.hero-about-us-btn {
+  border: none;
+  padding: 15px 40px;
+  color: white;
+  background-color: #d4507a;
+  font-size: 1.1rem;
+  border-radius: 50px;
+}
+
+.hero-about-us-btn:hover {
+  background-color: #131313;
+  cursor: pointer;
+  transition: all 0.2s ease;
+}
