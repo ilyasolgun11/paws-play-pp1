@@ -383,3 +383,19 @@ header {
   font-style: italic;
   color: #d4507a;
 }
+
+/* Footer */
+#footer {
+  color: white;
+  padding: 60px 0;
+  margin-top: 180px;
+  background-color: #131313;
+}
+
+.footer-container {
+  display: flex;
+  justify-content: space-between;
+  padding: 0 20px;
+  max-width: 1400px;
+  margin: 0 auto;
+}
