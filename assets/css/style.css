@@ -1374,4 +1374,12 @@ header {
   .hero-content h2 {
     margin-bottom: 40px;
   }
+
+  /* Main Section */
+  /* Eligibility */
+  #eligibility {
+    margin-top: 90px;
+    margin-bottom: 100px;
+    flex-direction: column;
+  }
 }
