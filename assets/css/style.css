@@ -830,4 +830,19 @@ header {
 
 /* Screen sizes smaller than 997px */
 @media screen and (max-width: 997px) {
+  /* Header section  */
+  .hero-img-container {
+    width: 100%;
+  }
+
+  .hero-content h1 {
+    font-size: 2rem;
+  }
+  .hero-content h2 {
+    font-size: 2rem;
+  }
+  .hero-underline {
+    width: 230px;
+    right: 10px;
+  }
 }
