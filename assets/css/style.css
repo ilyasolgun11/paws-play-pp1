@@ -378,6 +378,7 @@ header {
 .eligibility-form-second {
   top: 0px;
   padding: 0px 30px;
+  padding-bottom: 28px;
   width: 100%;
   display: flex;
   align-items: center;
