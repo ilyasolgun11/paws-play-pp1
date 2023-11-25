@@ -979,7 +979,8 @@ header {
   .vaccinations-first-header-container h3,
   .vaccinations-second-header-container h3,
   .behavior-first-header-container h3,
-  .behavior-second-header-container h3 {
+  .behavior-second-header-container h3,
+  .socialization-first-header-container h3 {
     margin-left: 0px;
   }
 
