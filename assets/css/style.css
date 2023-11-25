@@ -886,4 +886,19 @@ header {
   .health-welness {
     order: 3;
   }
+
+  /* Location */
+  #location {
+    margin-top: 170px;
+    margin-bottom: 200px;
+  }
+
+  .location {
+    flex-direction: column;
+  }
+
+  .location-img-container,
+  .location-map-container {
+    width: 99%;
+  }
 }
