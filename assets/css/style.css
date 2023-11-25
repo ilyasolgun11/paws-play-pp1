@@ -857,6 +857,14 @@ header {
     right: 10px;
   }
 
+  /* Main Section */
+  /* Eligibility */
+  .eligibility-img-container {
+    display: flex;
+    width: 100%;
+    justify-content: center;
+  }
+
   /* What we do */
   #what-we-do {
     margin-top: 140px;
