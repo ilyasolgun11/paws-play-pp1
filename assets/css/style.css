@@ -427,6 +427,14 @@ header {
   margin-top: 25px;
 }
 
+.vaccinations h2,
+.behavior h2,
+.socialization h2 {
+  font-size: 2rem;
+  margin-bottom: 14px;
+  margin-top: 100px;
+}
+
 #eligibility-page-form .general-details-first input,
 #eligibility-page-form .general-details-second input {
   width: 100%;
@@ -549,13 +557,6 @@ header {
   height: 15px;
   margin-bottom: 2px;
   vertical-align: middle;
-}
-
-.vaccinations h2,
-.behavior h2 {
-  font-size: 2rem;
-  margin-bottom: 14px;
-  margin-top: 100px;
 }
 
 .eligibility-personal-info-first {
