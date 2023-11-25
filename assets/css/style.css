@@ -932,4 +932,49 @@ header {
   .footer-links ul li a {
     font-size: 1.5rem;
   }
+
+  /* Eligibility page main - form section  */
+  #eligibility-page-form {
+    flex-direction: column;
+    margin-bottom: 10px;
+  }
+
+  .eligibility-form-second-stick {
+    width: 100%;
+    padding-top: 30px;
+    position: relative;
+  }
+
+  .eligibility-form-second-stick h2 {
+    margin-top: 20px;
+    margin-bottom: 15px;
+    display: block;
+  }
+
+  .general-details h2 {
+    font-size: 1.9rem;
+  }
+
+  .placeholder-div {
+    height: 0%;
+    width: 0%;
+  }
+
+  .behavior-second {
+    margin-top: 20px;
+  }
+
+  .general-details-third h3,
+  .general-details-fourth h3,
+  .vaccinations-first-header-container h3,
+  .vaccinations-second-header-container h3,
+  .behavior-first-header-container h3,
+  .behavior-second-header-container h3 {
+    margin-left: 0px;
+  }
+
+  .vaccinations h2,
+  .behavior h2 {
+    font-size: 1.9rem;
+  }
 }
