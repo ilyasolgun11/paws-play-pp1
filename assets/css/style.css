@@ -996,4 +996,67 @@ header {
   .nav-links {
     display: none;
   }
+
+  nav {
+    padding-top: 25px;
+    position: relative;
+  }
+
+  .nav-links ul {
+    padding: 0;
+    padding-top: 15px;
+    flex-direction: column;
+    justify-content: center;
+  }
+
+  .nav-links ul li {
+    display: block;
+    width: 95%;
+    margin-bottom: 15px;
+    font-size: 1.2rem;
+  }
+
+  .nav-links ul li a {
+    display: block;
+    padding: 15px;
+  }
+
+  .nav-links ul li .bg-active {
+    border-radius: 5px;
+    width: 100%;
+    padding: 15px;
+    background-color: #d4507a;
+    color: white;
+    display: block;
+  }
+
+  .nav-links ul li .bg-active:hover {
+    background-color: #d4507a;
+    color: white;
+  }
+
+  .nav-links ul li:nth-of-type(1) {
+    border-top: none;
+  }
+
+  .nav-links .sign-up-container {
+    width: 100%;
+    padding: 0;
+  }
+
+  .nav-links .sign-up-btn {
+    width: 100%;
+    background-color: #ffffff;
+    color: #131313;
+    border: none;
+    padding: 15px;
+    border-radius: 50px;
+    font-size: 1.2rem;
+    text-align: start;
+  }
+
+  .sign-up-btn:hover {
+    background-color: white;
+    color: #d4507a;
+  }
 }
