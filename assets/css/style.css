@@ -1070,6 +1070,36 @@ header {
   .behavior h2 {
     font-size: 1.9rem;
   }
+
+  /* About Page Styles  */
+  /* Founders Info Section */
+  #founders-info {
+    flex-direction: column;
+  }
+
+  .founders-info-first {
+    width: 80%;
+  }
+
+  .founders-info-second {
+    width: 80%;
+  }
+
+  .founders-info-first h2 {
+    font-size: 3rem;
+    text-align: center;
+  }
+
+  .founders-info-first p {
+    text-align: center;
+  }
+
+  .founders-info-img {
+    margin-top: 50px;
+    width: 100%;
+    height: 100%;
+    object-fit: contain;
+  }
 }
 
 /* Screen sizes smaller than 786px */
@@ -1492,6 +1522,16 @@ header {
 
   .location-map {
     height: 400px;
+  }
+
+  /* About Page Styles  */
+  /* Founders Info Section */
+  #founders-info {
+    margin-top: 100px;
+  }
+
+  .founders-info-first h2 {
+    font-size: 2.8rem;
   }
 }
 
