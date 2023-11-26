@@ -738,6 +738,14 @@ header {
   color: #d4507a;
 }
 
+/* About Page Styles  */
+/* Founders Info Section */
+#founders-info {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
 /* Footer */
 #footer {
   color: white;
