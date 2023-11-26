@@ -741,6 +741,7 @@ header {
 /* About Page Styles  */
 /* Founders Info Section */
 #founders-info {
+  margin-top: 120px;
   display: flex;
   justify-content: space-between;
   align-items: center;
