@@ -437,6 +437,14 @@ header {
   margin-top: 100px;
 }
 
+.general-details-age-container {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 0.4rem;
+}
+
 #eligibility-page-form .general-details-first input,
 #eligibility-page-form .general-details-second input {
   width: 100%;
@@ -446,6 +454,17 @@ header {
   background-color: #efefef;
   color: #131313;
   font-size: 0.9rem;
+}
+
+#eligibility-page-form .general-details-first input {
+  width: 45%;
+}
+
+#eligibility-page-form
+  .general-details-first
+  .general-details-age-container
+  input {
+  width: 50%;
 }
 
 #eligibility-page-form .general-details-first input:focus,
@@ -748,7 +767,15 @@ header {
 }
 
 .founders-info-first {
-  width: 70%;
+  width: 65%;
+}
+
+.founders-info-second {
+  width: 35%;
+}
+
+.founders-info-img-container {
+  position: relative;
 }
 
 .founders-info-first h2 {
@@ -761,10 +788,6 @@ header {
 .founders-info-first p span {
   color: #d4507a;
   font-weight: 500;
-}
-
-.founders-info-second {
-  width: 30%;
 }
 
 .founders-info-img {
