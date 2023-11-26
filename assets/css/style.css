@@ -758,6 +758,11 @@ header {
   font-style: italic;
 }
 
+.founders-info-first p span {
+  color: #d4507a;
+  font-weight: 500;
+}
+
 .founders-info-second {
   width: 30%;
 }
