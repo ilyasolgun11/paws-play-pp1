@@ -746,6 +746,20 @@ header {
   align-items: center;
 }
 
+.founders-info-first {
+  width: 70%;
+}
+
+.founders-info-second {
+  width: 30%;
+}
+
+.founders-info-img {
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+}
+
 /* Footer */
 #footer {
   color: white;
