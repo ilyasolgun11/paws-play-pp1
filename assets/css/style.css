@@ -857,6 +857,22 @@ header {
   font-weight: 500;
 }
 
+.join-the-family-first button {
+  margin-top: 25px;
+  border: none;
+  padding: 15px 40px;
+  color: white;
+  background-color: #d4507a;
+  font-size: 1.1rem;
+  border-radius: 50px;
+}
+
+.join-the-family-first button:hover {
+  background-color: #131313;
+  cursor: pointer;
+  transition: all 0.2s ease;
+}
+
 /* Footer */
 #footer {
   color: white;
