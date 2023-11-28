@@ -30,6 +30,13 @@ a {
   color: inherit;
 }
 
+input:focus,
+textarea:focus,
+button:focus,
+select:focus {
+  outline: none;
+}
+
 /* Body Styles */
 body {
   scroll-behavior: smooth;
