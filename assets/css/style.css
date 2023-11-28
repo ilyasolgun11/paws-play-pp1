@@ -649,6 +649,12 @@ header {
   border-radius: 20px;
 }
 
+.eligibility-form-second button:hover {
+  background-color: #131313;
+  cursor: pointer;
+  transition: all 0.2s ease;
+}
+
 /* What we do */
 .what-we-do-header {
   font-size: 4rem;
