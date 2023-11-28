@@ -1213,7 +1213,13 @@ header {
     flex-direction: column;
   }
 
+  .join-the-family-first {
+    order: 1;
+  }
+
   .join-the-family-second {
+    margin-top: 100px;
+    order: 0;
     width: 100%;
     height: 100%;
   }
@@ -1231,6 +1237,11 @@ header {
     margin-left: 40px;
     width: 80%;
     height: 80%;
+  }
+
+  .join-the-family-btn-container {
+    display: flex;
+    justify-content: center;
   }
 }
 
