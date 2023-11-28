@@ -425,6 +425,7 @@ header {
 }
 
 .behavior-second {
+  align-items: center;
   margin-top: 25px;
 }
 
