@@ -842,6 +842,8 @@ header {
 }
 
 .join-the-family-second {
+  display: flex;
+  justify-content: center;
   width: 60%;
   height: 60%;
 }
@@ -1204,6 +1206,31 @@ header {
 
   .our-mission-second p {
     text-align: center;
+  }
+
+  /* Join the Family */
+  #join-the-family {
+    flex-direction: column;
+  }
+
+  .join-the-family-second {
+    width: 100%;
+    height: 100%;
+  }
+
+  .join-the-family-first h2 {
+    font-size: 2.3rem;
+    text-align: center;
+  }
+
+  .join-the-family-first p {
+    text-align: center;
+  }
+
+  .join-the-family-img {
+    margin-left: 40px;
+    width: 80%;
+    height: 80%;
   }
 }
 
