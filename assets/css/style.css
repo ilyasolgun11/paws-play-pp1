@@ -852,6 +852,11 @@ header {
   height: 100%;
 }
 
+.join-the-family-first p span {
+  color: #d4507a;
+  font-weight: 500;
+}
+
 /* Footer */
 #footer {
   color: white;
