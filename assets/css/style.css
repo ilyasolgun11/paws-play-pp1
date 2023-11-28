@@ -798,6 +798,7 @@ header {
 
 /* Our Mission Section  */
 #our-mission {
+  margin-top: 100px;
   display: flex;
   justify-content: space-between;
   align-items: center;
@@ -1136,6 +1137,7 @@ header {
 
   /* Our Mission Section  */
   #our-mission {
+    margin-top: 0px;
     flex-direction: column;
   }
 
