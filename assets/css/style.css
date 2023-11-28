@@ -1649,7 +1649,6 @@ header {
   }
 
   /* Location */
-
   .location-header h2 {
     font-size: 3.5rem;
     margin-bottom: 20px;
@@ -1710,6 +1709,6 @@ header {
 
   /* Location */
   .location-header h2 {
-    font-size: 1.9rem;
+    font-size: 2.3rem;
   }
 }
