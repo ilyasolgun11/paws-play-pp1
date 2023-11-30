@@ -16,7 +16,7 @@ The users of this website will be able to find all relevant information about th
 
 ![Paws play navigation](assets/images/paw's-play-navigation.PNG)
 
----
+-
 
 #### The Header
 
