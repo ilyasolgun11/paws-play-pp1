@@ -875,12 +875,16 @@ header {
   height: 100%;
 }
 
+.join-the-family-first p {
+  margin-bottom: 35px;
+}
+
 .join-the-family-first p span {
   color: #d4507a;
   font-weight: 500;
 }
 
-.join-the-family-first button {
+.join-the-family-first a {
   margin-top: 25px;
   border: none;
   padding: 15px 40px;
@@ -890,7 +894,7 @@ header {
   border-radius: 50px;
 }
 
-.join-the-family-first button:hover {
+.join-the-family-first a:hover {
   background-color: #131313;
   cursor: pointer;
   transition: all 0.2s ease;
