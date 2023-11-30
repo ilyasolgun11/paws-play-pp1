@@ -942,6 +942,10 @@ header {
   font-size: 2.6rem;
 }
 
+.footer-contact h3 {
+  margin-bottom: 10px;
+}
+
 .footer-social h3 {
   text-align: center;
   padding-right: 12px;
