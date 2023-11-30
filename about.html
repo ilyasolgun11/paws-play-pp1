@@ -27,7 +27,7 @@
   <body>
     <!-- Nav Section -->
     <nav>
-      <a href="index.html" class="logo"
+      <a href="index.html" class="logo" aria-label="Link to home page"
         >Paw's Play <i class="fa-solid fa-paw"></i
       ></a>
       <input type="checkbox" id="nav-toggle" name="nav-toggle" />
@@ -36,15 +36,28 @@
       ></label>
       <div class="nav-links">
         <ul>
-          <li><a href="index.html">Home</a></li>
           <li>
-            <a href="eligibility.html">Eligibility</a>
+            <a
+              href="index.html"
+              class="active bg-active"
+              aria-label="Link to home page"
+              >Home</a
+            >
           </li>
-          <li><a href="about.html" class="active bg-active">About</a></li>
           <li>
-            <a class="sign-up-container" href="">
-              <button class="sign-up-btn">Sign up</button>
-            </a>
+            <a href="eligibility.html" aria-label="Link to eligibility page"
+              >Eligibility</a
+            >
+          </li>
+          <li>
+            <a href="about.html" aria-label="Link to about page">About</a>
+          </li>
+          <li>
+            <div class="sign-up-container">
+              <a href="" class="sign-up-btn" aria-label="Link to sign up page"
+                >Sign up</a
+              >
+            </div>
           </li>
         </ul>
       </div>
