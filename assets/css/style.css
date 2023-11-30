@@ -64,7 +64,7 @@ nav {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  padding: 5px 0;
+  padding: 9px 0;
 }
 
 .logo {
@@ -112,7 +112,7 @@ nav {
   transition: all 0.1s ease;
 }
 
-.sign-up-btn {
+.nav-links ul li .sign-up-btn {
   background-color: #d4507a;
   color: white;
   border: none;
@@ -121,8 +121,9 @@ nav {
   font-size: 0.95rem;
 }
 
-.sign-up-btn:hover {
+.nav-links ul li .sign-up-btn:hover {
   background-color: #131313;
+  color: white;
   cursor: pointer;
   transition: all 0.2s ease;
 }
@@ -1316,6 +1317,7 @@ header {
   }
 
   .nav-links .sign-up-container {
+    height: 100%;
     width: 100%;
     padding: 0;
   }
