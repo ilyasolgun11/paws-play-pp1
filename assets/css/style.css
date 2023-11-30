@@ -916,7 +916,7 @@ header {
   margin: 0 auto;
 }
 
-.footer-links,
+.footer-contact,
 .footer-social,
 .footer-news {
   display: flex;
@@ -924,7 +924,7 @@ header {
   width: 33.3%;
 }
 
-.footer-links {
+.footer-contact {
   align-items: flex-start;
 }
 
@@ -936,7 +936,7 @@ header {
   align-items: flex-end;
 }
 
-.footer-links h3,
+.footer-contact h3,
 .footer-social h3,
 .footer-news h3 {
   font-size: 2.6rem;
@@ -951,16 +951,22 @@ header {
   margin-bottom: 8px;
 }
 
-.footer-links ul li {
+.footer-contact ul li {
+  cursor: pointer;
   margin-bottom: 7px;
 }
 
-.footer-links ul li a {
+.footer-contact ul li {
   font-size: 1.2rem;
 }
 
-.footer-links ul li a:hover {
+.footer-contact ul li:hover {
   color: #d4507a;
+}
+
+.footer-contact li i {
+  font-size: 1.1rem;
+  margin-right: -8px;
 }
 
 .footer-container i {
@@ -1104,13 +1110,13 @@ header {
     flex-direction: column;
   }
 
-  .footer-links,
+  .footer-contact,
   .footer-social,
   .footer-news {
     width: 100%;
   }
 
-  .footer-links,
+  .footer-contact,
   .footer-social,
   .footer-news {
     align-items: center;
@@ -1118,13 +1124,13 @@ header {
     margin-bottom: 70px;
   }
 
-  .footer-links h3,
+  .footer-contact h3,
   .footer-social h3,
   .footer-news h3 {
     font-size: 2.8rem;
   }
 
-  .footer-links ul li a {
+  .footer-contact ul li a {
     font-size: 1.5rem;
   }
 
