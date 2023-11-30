@@ -8,7 +8,7 @@ The users of this website will be able to find all relevant information about th
 
 ## Features
 
-### Navigation
+#### Navigation
 
 - Featured at the top of all pages, the navigation section shows the paw's play logo at the left corner.
 - The navigation links are at the right of the navigation section; Home, Eligibility, about and sign up.
