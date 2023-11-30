@@ -1330,7 +1330,7 @@ header {
     padding: 0;
   }
 
-  .nav-links .sign-up-btn {
+  .nav-links ul li .sign-up-btn {
     width: 100%;
     background-color: #ffffff;
     color: #131313;
@@ -1341,7 +1341,7 @@ header {
     text-align: start;
   }
 
-  .sign-up-btn:hover {
+  .nav-links ul li .sign-up-btn:hover {
     background-color: white;
     color: #d4507a;
   }
