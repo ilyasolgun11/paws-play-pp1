@@ -16,8 +16,6 @@ The users of this website will be able to find all relevant information about th
 
 ![Paws play navigation](assets/images/paw's-play-navigation.PNG)
 
--
-
 #### The Header
 
 - The left section of the header shows an illustration of a women petting a dog, setting a friendly scene and displaying its a site about dogs.
