@@ -4,4 +4,4 @@ The Paw's Play website is a service for people who want a trusted day care for t
 
 The users of this website will be able to find all relevant information about the day care; for example an elgibility form, contact information, about paw's play and a sign up form.
 
-!(assets/images/responsive-site.png)
+![Responsive Site](assets/images/responsive-site.png)
