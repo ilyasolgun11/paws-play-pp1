@@ -37,6 +37,10 @@ select:focus {
   outline: none;
 }
 
+.hidden-heading {
+  display: none;
+}
+
 /* Body Styles */
 body {
   scroll-behavior: smooth;
