@@ -15,3 +15,12 @@ The users of this website will be able to find all relevant information about th
 - The navigation serves it's purpose by telling the users the name of the company and links to navigate around the website.
 
 ![Paws play navigation](assets/images/paw's-play-navigation.PNG)
+
+#### The Header
+
+- The left section of the header shows an illustration of a women petting a dog, setting a friendly scene and displaying its a site about dogs.
+- The right section displays a header saying "Where tail wag's meet boundless joy!" further showing the users that this website and its serverices are tailored towards their dogs happiness and theirs.
+- Also in the right section there is a paragraph stating that this service will elivate their dogs experience at their day care, with a button to take them to the about page to further learn about the great things that happen at paw's play day care.
+- This section clearly shows the users who this website is tailored for.
+
+![Paws play header](assets/images/pawsplay-header.PNG)
