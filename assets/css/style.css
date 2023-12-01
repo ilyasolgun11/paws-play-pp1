@@ -475,7 +475,8 @@ header {
 }
 
 #eligibility-page-form .general-details-first label,
-#eligibility-page-form .general-details-second label {
+#eligibility-page-form .general-details-second label,
+.eligibility-form-second-stick label {
   width: 0px;
   height: 0px;
 }
@@ -658,7 +659,7 @@ header {
   justify-content: space-between;
   align-items: center;
   width: 100%;
-  gap: 0.4rem;
+  gap: 0.1rem;
 }
 
 .eligibility-personal-info-first input,

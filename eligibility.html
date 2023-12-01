@@ -502,17 +502,22 @@
               </fieldset>
             </div>
           </div>
-          <div class="eligibility-form-second">
-            <div class="eligibility-form-second-stick">
-              <h2>Your Details</h2>
+          <fieldset class="eligibility-form-second">
+            <legend aria-hidden="false" style="visibility: hidden;">Details about you</legend>
+            <fieldset class="eligibility-form-second-stick">
+              <legend aria-hidden="false" style="visibility: hidden;">Your Details</legend>
               <div class="eligibility-personal-info-first">
+                <label for="owner-f-name" aria-hidden="false" style="visibility: hidden;">Your first name</label>
                 <input
+                  id="owner-f-name"
                   type="text"
                   placeholder="First name"
                   name="owner-f-name"
                   required
                 />
+                <label for="owner-l-name" aria-hidden="false" style="visibility: hidden;">Your last name</label>
                 <input
+                  id="owner-l-name"
                   type="text"
                   placeholder="Last name"
                   name="owner-l-name"
@@ -520,13 +525,17 @@
                 />
               </div>
               <div class="eligibility-personal-info-second">
+                <label for="owner-email" aria-hidden="false" style="visibility: hidden;">Your email</label>
                 <input
+                  id="owner-email"
                   type="email"
                   placeholder="Email"
                   name="owner-email"
                   required
                 />
+                <label for="owner-phone-number" aria-hidden="false" style="visibility: hidden;">Your phone number</label>
                 <input
+                id="owner-phone-number"
                   type="text"
                   placeholder="Phone number"
                   name="owner-phone-number"
@@ -543,9 +552,9 @@
                 />
               </label>
               <button type="submit">Submit</button>
-            </div>
+            </fieldset>
             <div class="placeholder-div"></div>
-          </div>
+          </fieldset>
         </form>
       </section>
     </main>
