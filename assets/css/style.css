@@ -116,7 +116,7 @@ nav {
   transition: all 0.1s ease;
 }
 
-.nav-links ul li .sign-up-btn {
+.nav-links ul li .eligibility-nav-btn {
   background-color: #a7244e;
   color: white;
   border: none;
@@ -125,7 +125,7 @@ nav {
   font-size: 0.95rem;
 }
 
-.nav-links ul li .sign-up-btn:hover {
+.nav-links ul li .eligibility-nav-btn:hover {
   background-color: #131313;
   color: white;
   cursor: pointer;
@@ -1357,20 +1357,30 @@ header {
     padding: 0;
   }
 
-  .nav-links ul li .sign-up-btn {
+  .nav-links ul li .eligibility-nav-btn {
     width: 100%;
     background-color: #ffffff;
     color: #131313;
     border: none;
     padding: 15px;
-    border-radius: 50px;
+    border-radius: 10px;
     font-size: 1.2rem;
     text-align: start;
   }
 
-  .nav-links ul li .sign-up-btn:hover {
-    background-color: white;
+  .nav-links ul li .bg-active {
+    background-color: #a7244e;
+    color: white;
+  }
+
+  .nav-links ul li .eligibility-nav-btn:hover {
+    background-color: #ffffff;
     color: #a7244e;
+  }
+
+  .nav-links ul li .bg-active:hover {
+    background-color: #a7244e;
+    color: white;
   }
 
   #nav-toggle:checked + .nav-toggle-label + .nav-links {
