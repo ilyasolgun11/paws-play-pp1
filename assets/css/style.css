@@ -63,8 +63,6 @@ header,
 
 /* Nav Styles */
 nav {
-  max-width: 1400px;
-  margin: 0 auto;
   display: flex;
   justify-content: space-between;
   align-items: center;
@@ -143,11 +141,12 @@ nav {
 
 /* Header Styles */
 header {
+  padding-top: 10px;
   display: flex;
   justify-content: space-between;
   align-items: center;
-  height: 80vh;
   width: 100%;
+  margin-bottom: 10px;
 }
 
 .hero-img-container {
