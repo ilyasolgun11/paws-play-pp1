@@ -434,6 +434,10 @@ header {
   margin-bottom: 14px;
 }
 
+.vaccinations {
+  margin-top: 100px;
+}
+
 .general-details-first,
 .general-details-second,
 .general-details-third,
@@ -455,12 +459,13 @@ header {
   margin-top: 25px;
 }
 
-.vaccinations h2,
+.vaccinations .vaccinations-header,
 .behavior h2,
 .socialization h2 {
   font-size: 2rem;
   margin-bottom: 14px;
   margin-top: 100px;
+  font-weight: 600;
 }
 
 #eligibility-page-form .general-details-first label,
@@ -530,8 +535,8 @@ header {
   width: 50%;
 }
 
-.vaccinations-first-header-container h3,
-.vaccinations-second-header-container h3,
+.vaccinations-first-header-container legend,
+.vaccinations-second-header-container legend,
 .behavior-first-header-container h3,
 .behavior-second-header-container h3,
 .socialization-first-header-container h3,
@@ -539,6 +544,7 @@ header {
   color: #131313;
   margin-left: 3px;
   font-weight: 500;
+  font-size: 1rem;
 }
 
 .socialization-first-header-container h3,
