@@ -434,7 +434,8 @@ header {
   margin-bottom: 14px;
 }
 
-.vaccinations {
+.vaccinations,
+.behavior {
   margin-top: 100px;
 }
 
@@ -460,7 +461,7 @@ header {
 }
 
 .vaccinations .vaccinations-header,
-.behavior h2,
+.behavior .behavior-header,
 .socialization h2 {
   font-size: 2rem;
   margin-bottom: 14px;
@@ -537,8 +538,8 @@ header {
 
 .vaccinations-first-header-container legend,
 .vaccinations-second-header-container legend,
-.behavior-first-header-container h3,
-.behavior-second-header-container h3,
+.behavior-first-header-container legend,
+.behavior-second-header-container legend,
 .socialization-first-header-container h3,
 .socialization-second-header-container h3 {
   color: #131313;
