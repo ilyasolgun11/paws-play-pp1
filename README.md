@@ -13,6 +13,14 @@ The users of this website will be able to find all relevant information about th
 
 ## Planning stage
 
+### Site Aims:
+
+- Access an eligibility page to determine if your dog meets our criteria for daycare, training, and other services.
+- Explore our homepage offering detailed information about our range of services, including specialized care for dogs and puppies, training programs, and more.
+- Discover our specialized puppy care services, ensuring the best start for your young furry friend in a safe and nurturing environment.
+- Learn about our expert-led dog training programs designed to enhance your dog's skills and behavior in various situations.
+- Gain insight into our values, mission, and the passionate team behind Paw's Play on our About Us page.
+
 ### Target Audiences:
 
 - Users looking for a dog day care while they are away on holiday
