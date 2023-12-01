@@ -37,6 +37,10 @@ select:focus {
   outline: none;
 }
 
+fieldset {
+  border: none;
+}
+
 .hidden-heading {
   display: none;
 }
@@ -424,8 +428,9 @@ header {
   width: 100%;
 }
 
-.general-details h2 {
+.general-details .general-details-header {
   font-size: 2rem;
+  font-weight: 600;
   margin-bottom: 14px;
 }
 
@@ -442,7 +447,7 @@ header {
   margin-top: 10px;
   display: flex;
   justify-content: space-between;
-  gap: 0.4rem;
+  gap: 0.1rem;
 }
 
 .behavior-second {
@@ -458,12 +463,18 @@ header {
   margin-top: 100px;
 }
 
+#eligibility-page-form .general-details-first label,
+#eligibility-page-form .general-details-second label {
+  width: 0px;
+  height: 0px;
+}
+
 .general-details-age-container {
   width: 100%;
   display: flex;
   justify-content: space-between;
   align-items: center;
-  gap: 0.4rem;
+  gap: 0.1rem;
 }
 
 #eligibility-page-form .general-details-first input,
@@ -498,11 +509,18 @@ header {
   outline: none;
 }
 
+.general-details-third-legend-container,
+.general-details-fourth-legend-container {
+  display: flex;
+  align-items: center;
+}
+
 .general-details-third-header-container,
 .general-details-fourth-header-container,
 .vaccinations-first-header-container,
 .vaccinations-second-header-container,
 .behavior-first-header-container {
+  padding-left: 5px;
   display: flex;
   align-items: center;
 }
@@ -512,8 +530,6 @@ header {
   width: 50%;
 }
 
-.general-details-third h3,
-.general-details-fourth h3,
 .vaccinations-first-header-container h3,
 .vaccinations-second-header-container h3,
 .behavior-first-header-container h3,
@@ -1529,8 +1545,12 @@ header {
   .behavior-second,
   .socialization-first,
   .socialization-second {
-    margin-top: 7px;
+    margin-top: 4px;
     flex-direction: column;
+  }
+
+  .general-details-second {
+    gap: 0.2rem;
   }
 
   .general-details-third,
@@ -1601,10 +1621,16 @@ header {
     width: 100%;
   }
 
+  .general-details-age-container {
+    gap: 0;
+    margin-top: 5px;
+  }
+
   #eligibility-page-form
     .general-details-first
     .general-details-age-container
     input:nth-of-type(1) {
+    margin-right: 6px;
     border-top-right-radius: 0px;
     border-bottom-right-radius: 0px;
   }

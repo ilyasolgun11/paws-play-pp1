@@ -112,23 +112,32 @@
         >
           <div class="eligibility-form-first">
             <!-- General Details -->
-            <div class="general-details">
-              <h2>General Details</h2>
+            <fieldset>
+              <div class="general-details">
+              <legend class="general-details-header">General Details</legend>
               <div class="general-details-first">
+                <label for="name-of-dog" aria-hidden="false" style="visibility: hidden;">
+                 name of dog
+                </label>
                 <input
+                  id="name-of-dog"
                   type="text"
                   name="name-of-dog"
                   placeholder="Dogs name"
                   required
                 />
                 <div class="general-details-age-container">
+                  <label for="age-of-dog-years" aria-hidden="false" style="visibility: hidden;"> age of dog (years)</label>
                   <input
+                  id="age-of-dog-years"
                     type="number"
                     name="age-of-dog-years"
                     placeholder="Dogs age (years)"
                     required
                   />
+                  <label for="age-of-dog-months" aria-hidden="false" style="visibility: hidden;">age of dog (months)</label>
                   <input
+                    id="age-of-dog-months"
                     type="number"
                     name="age-of-dog-months"
                     placeholder="Dogs age (months)"
@@ -137,7 +146,9 @@
                 </div>
               </div>
               <div class="general-details-second">
+                <label for="breed-of-dog" aria-hidden="false" style="visibility: hidden;">Breed of dog</label>
                 <input
+                id="breed-of-dog"
                   list="dog-breeds"
                   type="text"
                   name="breed-of-dog"
@@ -154,17 +165,21 @@
                   <option value="Poodle"></option>
                   <option value="Beagle"></option>
                 </datalist>
+                <label for="weight-of-dog-kg" aria-hidden="false" style="visibility: hidden;">Weight of dog</label>
                 <input
+                id="weight-of-dog-kg"
                   type="text"
                   name="weight-of-dog-kg"
                   placeholder="Dogs weight (kg)"
                   required
                 />
               </div>
-              <div class="general-details-third">
-                <div class="general-details-third-header-container">
-                  <h3>Have they been neutered or spayed?</h3>
-                </div>
+              <fieldset class="general-details-third">
+                <div class="general-details-third-legend-container">
+                <legend class="general-details-third-header-container">
+                  Have they been neutered or spayed?
+                </legend>
+              </div>
                 <div class="general-details-third-radio-container">
                   <label for="neutered-yes" class="neutered-yes"
                     >Yes
@@ -187,11 +202,14 @@
                     />
                   </label>
                 </div>
+              </fieldset>
               </div>
-              <div class="general-details-fourth">
-                <div class="general-details-fourth-header-container">
-                  <h3>Any existing medical conditions?</h3>
-                </div>
+              <fieldset class="general-details-fourth">
+                <div class="general-details-fourth-legend-container">
+                <legend class="general-details-fourth-header-container">
+                  Any existing medical conditions?
+                </legend>
+              </div>
                 <div class="general-details-fourth-radio-container">
                   <label for="medical-yes" class="medical-yes"
                     >Yes
@@ -214,7 +232,8 @@
                     />
                   </label>
                 </div>
-              </div>
+              </fieldset>
+            </fieldset>
               <!-- Vaccinations -->
               <div class="vaccinations">
                 <h2>Vaccinations</h2>
