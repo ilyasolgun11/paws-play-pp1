@@ -168,8 +168,8 @@ header {
 }
 
 .hero-img {
-  height: auto;
-  width: 100%;
+  min-width: 350px;
+  min-height: 350px;
   object-fit: contain;
 }
 
@@ -293,7 +293,9 @@ header {
 
 .eligibility-img {
   object-fit: contain;
-  width: 99%;
+  min-width: 350px;
+  max-width: 600px;
+  min-height: 350px;
   height: auto;
   margin-left: 70px;
 }
@@ -326,8 +328,9 @@ header {
 }
 
 .eligibility-page-hero-img {
-  width: 90%;
-  height: 90%;
+  max-width: 500px;
+  min-width: 350px;
+  min-height: 350px;
   object-fit: contain;
 }
 
@@ -768,7 +771,9 @@ header {
 }
 
 .location-img {
-  max-width: 90%;
+  min-width: 350px;
+  max-width: 600px;
+  min-height: 350px;
   height: auto;
 }
 
@@ -820,8 +825,9 @@ header {
 }
 
 .founders-info-img {
-  width: 100%;
-  height: 100%;
+  min-width: 350px;
+  max-width: 600px;
+  min-height: 350px;
   object-fit: contain;
 }
 
@@ -841,8 +847,9 @@ header {
 }
 
 .our-mission-img {
-  width: 90%;
-  height: 90%;
+  min-width: 350px;
+  max-width: 600px;
+  min-height: 350px;
 }
 
 .our-mission-second h2 {
@@ -880,8 +887,9 @@ header {
 }
 
 .join-the-family-img {
-  width: 100%;
-  height: 100%;
+  min-width: 350px;
+  max-width: 600px;
+  min-height: 350px;
 }
 
 .join-the-family-first p {
