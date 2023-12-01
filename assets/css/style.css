@@ -1289,6 +1289,7 @@ header {
   }
 
   .nav-toggle-label {
+    margin-bottom: 15px;
     font-size: 1.3rem;
     color: #131313;
     display: block;
@@ -1299,9 +1300,12 @@ header {
     display: none;
   }
 
-  nav {
-    padding-top: 25px;
+  header {
     position: relative;
+  }
+
+  nav {
+    padding-top: 15px;
   }
 
   .nav-links ul {
@@ -1366,7 +1370,8 @@ header {
   #nav-toggle:checked + .nav-toggle-label + .nav-links {
     width: 100%;
     display: block;
-    top: 100%;
+    top: 90%;
+    left: 0px;
     position: absolute;
     display: block;
     background-color: white;
