@@ -149,6 +149,14 @@ header {
   margin-bottom: 10px;
 }
 
+#hero-section {
+  max-width: 1400px;
+  margin: 0 auto;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
 .hero-img-container {
   display: flex;
   justify-content: center;
@@ -1367,9 +1375,14 @@ header {
 
   /* Header Styles */
   header {
-    margin-top: 20px;
-    flex-direction: column;
+    margin-top: 0px;
   }
+
+  #hero-section {
+    flex-direction: column;
+    padding: 0 20px;
+  }
+
   .hero-content h1 {
     font-size: 2.5rem;
   }
