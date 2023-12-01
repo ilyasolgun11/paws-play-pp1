@@ -78,7 +78,7 @@ nav {
 }
 
 .fa-paw {
-  color: #d4507a;
+  color: #a7244e;
   transition: transform 0.5s ease;
 }
 
@@ -106,16 +106,16 @@ nav {
 }
 
 .nav-links ul li .active {
-  color: #d4507a;
+  color: #a7244e;
 }
 
 .nav-links ul li a:hover {
-  color: #d4507a;
+  color: #a7244e;
   transition: all 0.1s ease;
 }
 
 .nav-links ul li .sign-up-btn {
-  background-color: #d4507a;
+  background-color: #a7244e;
   color: white;
   border: none;
   padding: 13px 25px;
@@ -211,7 +211,7 @@ header {
   border: none;
   padding: 15px 40px;
   color: white;
-  background-color: #d4507a;
+  background-color: #a7244e;
   font-size: 1.1rem;
   border-radius: 50px;
 }
@@ -272,7 +272,7 @@ header {
   border: none;
   padding: 15px 40px;
   color: white;
-  background-color: #d4507a;
+  background-color: #a7244e;
   font-size: 1.1rem;
   border-radius: 50px;
   margin-top: 15px;
@@ -352,7 +352,7 @@ header {
   border: none;
   padding: 15px 40px;
   color: white;
-  background-color: #d4507a;
+  background-color: #a7244e;
   font-size: 1.1rem;
   border-radius: 50px;
   margin-top: 15px;
@@ -664,7 +664,7 @@ header {
   width: 100%;
   padding: 13px;
   border: none;
-  background-color: #d4507a;
+  background-color: #a7244e;
   color: white;
   font-size: 1.3rem;
   border-radius: 20px;
@@ -681,7 +681,7 @@ header {
   font-size: 4rem;
   text-align: center;
   font-style: italic;
-  color: #d4507a;
+  color: #a7244e;
   margin-bottom: 40px;
 }
 
@@ -699,7 +699,7 @@ header {
 
 .dog-day-care {
   padding: 40px;
-  background-color: #d4507a;
+  background-color: #a7244e;
   width: 40%;
   color: white;
   border-radius: 15px;
@@ -723,7 +723,7 @@ header {
 
 .puppy-training {
   padding: 40px;
-  background-color: #d4507a;
+  background-color: #a7244e;
   width: 40%;
   color: white;
   border-radius: 15px;
@@ -781,7 +781,7 @@ header {
   font-size: 4rem;
   text-align: center;
   font-style: italic;
-  color: #d4507a;
+  color: #a7244e;
 }
 
 /* About Page Styles  */
@@ -808,12 +808,12 @@ header {
 .founders-info-first h2 {
   font-size: 3.5rem;
   margin-bottom: 20px;
-  color: #d4507a;
+  color: #a7244e;
   font-style: italic;
 }
 
 .founders-info-first p span {
-  color: #d4507a;
+  color: #a7244e;
   font-weight: 500;
 }
 
@@ -846,12 +846,12 @@ header {
 .our-mission-second h2 {
   font-size: 3.5rem;
   margin-bottom: 20px;
-  color: #d4507a;
+  color: #a7244e;
   font-style: italic;
 }
 
 .our-mission-second p span {
-  color: #d4507a;
+  color: #a7244e;
   font-weight: 500;
 }
 
@@ -873,7 +873,7 @@ header {
 .join-the-family-first h2 {
   font-size: 3.5rem;
   margin-bottom: 20px;
-  color: #d4507a;
+  color: #a7244e;
   font-style: italic;
 }
 
@@ -887,7 +887,7 @@ header {
 }
 
 .join-the-family-first p span {
-  color: #d4507a;
+  color: #a7244e;
   font-weight: 500;
 }
 
@@ -896,7 +896,7 @@ header {
   border: none;
   padding: 15px 40px;
   color: white;
-  background-color: #d4507a;
+  background-color: #a7244e;
   font-size: 1.1rem;
   border-radius: 50px;
 }
@@ -972,7 +972,7 @@ header {
 }
 
 .footer-contact ul li:hover {
-  color: #d4507a;
+  color: #a7244e;
 }
 
 .footer-contact li i {
@@ -986,7 +986,7 @@ header {
 }
 
 .footer-container i:hover {
-  color: #d4507a;
+  color: #a7244e;
   cursor: pointer;
   transition: all 0.1s ease;
 }
@@ -1331,13 +1331,13 @@ header {
     border-radius: 5px;
     width: 100%;
     padding: 15px;
-    background-color: #d4507a;
+    background-color: #a7244e;
     color: white;
     display: block;
   }
 
   .nav-links ul li .bg-active:hover {
-    background-color: #d4507a;
+    background-color: #a7244e;
     color: white;
   }
 
@@ -1364,7 +1364,7 @@ header {
 
   .nav-links ul li .sign-up-btn:hover {
     background-color: white;
-    color: #d4507a;
+    color: #a7244e;
   }
 
   #nav-toggle:checked + .nav-toggle-label + .nav-links {
@@ -1682,7 +1682,7 @@ header {
     width: 100%;
     padding: 13px;
     border: none;
-    background-color: #d4507a;
+    background-color: #a7244e;
     color: white;
     font-size: 1.3rem;
     border-radius: 20px;
