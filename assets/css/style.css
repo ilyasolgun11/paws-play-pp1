@@ -107,6 +107,7 @@ nav {
 
 .nav-links ul li .active {
   color: #a7244e;
+  font-weight: 500;
 }
 
 .nav-links ul li a:hover {
