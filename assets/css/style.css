@@ -1405,7 +1405,7 @@ header {
   }
 
   .nav-toggle-label {
-    margin-bottom: 15px;
+    margin-bottom: 0;
     font-size: 1.3rem;
     color: #131313;
     display: block;
