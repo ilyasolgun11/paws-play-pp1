@@ -90,8 +90,10 @@ The header element is stuck to the top of the page, Although it was a challangin
 
 #### Navigation: <a name="navigation"></a>
 
-Navigation for screen sizes larger than 786px:
+##### Navigation for screen sizes larger than 786px:
+
 ![navigation](assets/images/navigation-readme.png)
 
-Navigation for screen sizes smaller than 786px:
+##### Navigation for screen sizes smaller than 786px:
+
 ![navigation small](assets/images/navigation-readme-small.png)
