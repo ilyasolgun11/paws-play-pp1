@@ -77,4 +77,4 @@ The header element is stuck to the top of the page, Although it was a challangin
 
 #### Logo:
 
-## Paw's Play [logo](assets/images/logo-for-readme.png)
+![logo](assets/images/logo-for-readme.png)
