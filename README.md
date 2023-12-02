@@ -92,7 +92,7 @@ The header element is stuck to the top of the page, Although it was a challangin
 
 ##### Navigation for screen sizes larger than 786px:
 
-![navigation](assets/images/navigation-readme.png)
+![navigation](assets/images/navigation-readme-large.png)
 
 ##### Navigation for screen sizes smaller than 786px:
 
