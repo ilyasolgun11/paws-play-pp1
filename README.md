@@ -119,7 +119,7 @@ The footer element is at the very bottom of every page, it includes the followin
 
 ### Socials: <a name="socials"></a>
 
-![Socials](assets/images/readme/socials-readme.png)
+![socials](assets/images/readme/socials-readme.png)
 
 - The socials section in the footer has a header stating its the socials section.
 - The socials section contains 4 links that would take the user to it's 4 different accounts on various social media platforms.
@@ -127,6 +127,8 @@ The footer element is at the very bottom of every page, it includes the followin
 
 ### Newsletter: <a name="newsletter"></a>
 
+![newsletter](assets/images/readme/newsletter-readme.png)
+
 - The newsletter section in the footer has a header stating its the newsletter section.
 - The newsletter section contains a input form with a button of sign up.
-- The newsletter forms only functionality is to display the given information in another page with the users email as proof of concept.
+- Once the newsletter input is filled and submitted the user will be taken to a thank you page.
