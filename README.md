@@ -5,7 +5,7 @@
 The Paw's Play website is a service for people who want a trusted day care for their dogs, with eligibility criteria that seperates it from the competition by only housing dogs that wont endanger dogs under its care.
 The users of this website will be able to find all relevant information about the day care; for example an elgibility form, contact information and about paw's play.
 
-![Responsive Site](assets/images/responsive-site.png)
+![Responsive Site](assets/images/readme/responsive-site.png)
 
 ## Table of contents
 
@@ -25,6 +25,7 @@ The users of this website will be able to find all relevant information about th
   1. [Logo](#logo)
   2. [Navigation](#navigation)
 - [Footer element](#footer-element)
+  1. [Contact us](#contact-us)
 
 ## Planning stage <a name="planning-stage"></a>
 
@@ -74,7 +75,7 @@ The users of this website will be able to find all relevant information about th
 
 When deciding a color scheme, i decided i should go with colours matching with the illustrations i got from [icons8](https://icons8.com/illustrations/animal/dog/technique--3d) i selected a pink-ish colour to compliment the illustration perfectly and used the color [grader site](https://contrast-grid.eightshapes.com/?version=1.1.0&background-colors=&foreground-colors=%23FFFFF%2C%20%0D%0A%23d298aa%0D%0A%23d56589%2C%0D%0A%23a7244e%2C%20%0D%0A%23131313%2C%20%0D%0A%2300000%0D%0A&es-color-form__tile-size=compact&es-color-form__show-contrast=aaa&es-color-form__show-contrast=aa&es-color-form__show-contrast=aa18&es-color-form__show-contrast=dnp) to check the contrast scores, using the grid showed me which background colors match with which text color so the site is accessible to everyone.
 
-![Color grader result](assets/images/color-grader.png);
+![Color grader result](assets/images/readme/color-grader.png);
 
 ## Elements used on all pages <a name="elements-used-on-all-pages"></a>
 
@@ -84,7 +85,7 @@ The header element is stuck to the top of the page, Although it was a challangin
 
 ### Logo: <a name="logo"></a>
 
-![logo](assets/images/logo-for-readme.png)
+![logo](assets/images/readme/logo-for-readme.png)
 
 - The logo text is related to dogs with "Paws" and also being a playful and enjoyable place for dogs with "Play"
 - It is also a link to the homepage
@@ -93,14 +94,18 @@ The header element is stuck to the top of the page, Although it was a challangin
 
 ##### Navigation for screen sizes larger than 786px:
 
-![navigation](assets/images/navigation-readme-large.png)
+![navigation](assets/images/readme/navigation-readme-large.png)
 
 ##### Navigation for screen sizes smaller than 786px:
 
-![navigation small](assets/images/navigation-readme-small.png)
+![navigation small](assets/images/readme/navigation-readme-small.png)
 
 - The navigation appears on all pages.
 - It contains links to home, about and eligibility.
 - When the user is on a specifiv page, the link corrosponding to their page will have the class "active" and "bg-active", the "active" class applies to the links appearing on screen sizes larger than 786px and applies color and font-weight to the links, the "bg-active" class applies to the links on screen sizes smaller than 786px and applies a background colour to the links.
 
 ## Footer Element <a name="footer-element"></a>
+
+The footer element is at the very bottom of every page, it includes the following 4 features:
+
+### Contact us: <a name="contact-us"></a>
