@@ -19,6 +19,11 @@ The users of this website will be able to find all relevant information about th
 - [How i will achieve this:](#how-i-will-achieve-this)
 - [Color scheme](#color-scheme)
 
+#### [3. Elements used on all pages](#elements-used-on-all-pages)
+
+- [Header element](#header-element)
+  1. [Logo](#logo)
+
 ## Planning stage <a name="planning-stage"></a>
 
 ### Site Aims: <a name="site-aims"></a>
@@ -69,13 +74,13 @@ When deciding a color scheme, i decided i should go with colours matching with t
 
 ![Color grader result](assets/images/color-grader.png);
 
-## Elements used on all pages
+## Elements used on all pages <a name="elements-used-on-all-pages"></a>
 
-### Header Element
+### Header Element <a name="header-element"></a>
 
 The header element is stuck to the top of the page, Although it was a challanging task at the beggining of the project because of the max-width applied it was not able to align it to the middle, but now the issue is fixed. The header contains the following features:
 
-#### Logo:
+#### Logo: <a name="logo"></a>
 
 ![logo](assets/images/logo-for-readme.png)
 
