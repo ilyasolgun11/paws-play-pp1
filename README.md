@@ -28,6 +28,7 @@ The users of this website will be able to find all relevant information about th
   1. [Contact us](#contact-us)
   2. [Socials](#socials)
   3. [Newsletter](#newsletter)
+  4. [Copyright](#copyright)
 
 ## Planning stage <a name="planning-stage"></a>
 
@@ -132,3 +133,10 @@ The footer element is at the very bottom of every page, it includes the followin
 - The newsletter section in the footer has a header stating its the newsletter section.
 - The newsletter section contains a input form with a button of sign up.
 - Once the newsletter input is filled and submitted the user will be taken to a thank you page.
+
+### Copyright: <a name="copyright"></a>
+
+![Copyright](assets/images/readme/copyright-readme.png)
+
+- The copyright section in the footer has a copyright icon stating its the copyright section.
+- The copyright section has a "2024" mark stating its valid till 2024, this is just a dummy copyright for proof of concept.
