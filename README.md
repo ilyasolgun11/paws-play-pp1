@@ -26,6 +26,7 @@ The users of this website will be able to find all relevant information about th
   2. [Navigation](#navigation)
 - [Footer element](#footer-element)
   1. [Contact us](#contact-us)
+  2. [Socials](#socials)
 
 ## Planning stage <a name="planning-stage"></a>
 
@@ -112,5 +113,11 @@ The footer element is at the very bottom of every page, it includes the followin
 
 ![contact us](assets/images/readme/contact-us-readme.png)
 
-- The contact us section in the footer has a header stating its the contact us section
-- The contact us section contains 3 ways of contacting us; first being the support phone number, second being the location of the dog day care for in-person support and thirdly is the support email
+- The contact us section in the footer has a header stating its the contact us section.
+- The contact us section contains 3 ways of contacting us; first being the support phone number, second being the location of the dog day care for in-person support and thirdly is the support email.
+
+### Socials: <a name="socials"></a>
+
+- The socials section in the footer has a header stating its the socials section.
+- The socials section contains 4 links that would take the user to it's 4 different accounts on various social media platforms.
+- The platforms being Instagram, Youtube, Twitter and Facebook (Paw's Play doesnt actually have accounts with these platforms these are just for proof of concept)
