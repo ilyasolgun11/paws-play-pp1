@@ -23,7 +23,8 @@ The users of this website will be able to find all relevant information about th
 
 - [Header element](#header-element)
   1. [Logo](#logo)
-- [Navigation](#navigation)
+  2. [Navigation](#navigation)
+- [Footer element](#footer-element)
 
 ## Planning stage <a name="planning-stage"></a>
 
@@ -77,7 +78,7 @@ When deciding a color scheme, i decided i should go with colours matching with t
 
 ## Elements used on all pages <a name="elements-used-on-all-pages"></a>
 
-### Header Element <a name="header-element"></a>
+## Header Element <a name="header-element"></a>
 
 The header element is stuck to the top of the page, Although it was a challanging task at the beggining of the project because of the max-width applied it was not able to align it to the middle, but now the issue is fixed. The header contains the following features:
 
@@ -101,3 +102,5 @@ The header element is stuck to the top of the page, Although it was a challangin
 - The navigation appears on all pages.
 - It contains links to home, about and eligibility.
 - When the user is on a specifiv page, the link corrosponding to their page will have the class "active" and "bg-active", the "active" class applies to the links appearing on screen sizes larger than 786px and applies color and font-weight to the links, the "bg-active" class applies to the links on screen sizes smaller than 786px and applies a background colour to the links.
+
+## Footer Element <a name="footer-element"></a>
