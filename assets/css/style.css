@@ -1050,6 +1050,11 @@ header {
   align-items: center;
 }
 
+.footer-news label {
+  width: 0px;
+  height: 0px;
+}
+
 .newsletter-input {
   color: white;
   background-color: transparent;
