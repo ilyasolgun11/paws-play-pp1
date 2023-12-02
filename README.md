@@ -109,3 +109,5 @@ The header element is stuck to the top of the page, Although it was a challangin
 The footer element is at the very bottom of every page, it includes the following 4 features:
 
 ### Contact us: <a name="contact-us"></a>
+
+![contact us](assets/images/readme/contact-us-readme.png)
