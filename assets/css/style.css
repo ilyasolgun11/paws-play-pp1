@@ -59,7 +59,6 @@ main,
 header,
 #eligibility-page-form,
 .footer-container {
-  position: sticky;
   max-width: 1400px;
   margin: 0 auto;
   padding: 0 20px;
@@ -70,7 +69,7 @@ nav {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  padding: 9px 0;
+  padding: 15px 0;
 }
 
 .logo h1 {
@@ -154,15 +153,21 @@ nav {
 
 /* Header Styles */
 header {
-  padding-top: 10px;
   display: flex;
   justify-content: space-between;
   align-items: center;
+  margin-bottom: 0;
+  top: 0;
+  left: 50%;
+  transform: translateX(-50%);
+  position: fixed;
   width: 100%;
-  margin-bottom: 10px;
+  background-color: #fff;
+  z-index: 1000;
 }
 
 #hero-section {
+  padding-top: 140px;
   max-width: 1400px;
   margin: 0 auto;
   display: flex;
