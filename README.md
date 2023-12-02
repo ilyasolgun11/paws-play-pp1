@@ -54,3 +54,9 @@ The users of this website will be able to find all relevant information about th
 - The footer provides the user with social links so they can get to know us more
 
 - The footer also provides the user with an optional newsletter sign up so they can recieve information on possible parties and discounts
+
+## Color Scheme:
+
+When deciding a color scheme, i decided i should go with colours matching with the illustrations i got from [icons8](https://icons8.com/illustrations/animal/dog/technique--3d) i selected a pink-ish colour to compliment the illustration perfectly and used the color [grader site](https://contrast-grid.eightshapes.com/?version=1.1.0&background-colors=&foreground-colors=%23FFFFF%2C%20%0D%0A%23d298aa%0D%0A%23d56589%2C%0D%0A%23a7244e%2C%20%0D%0A%23131313%2C%20%0D%0A%2300000%0D%0A&es-color-form__tile-size=compact&es-color-form__show-contrast=aaa&es-color-form__show-contrast=aa&es-color-form__show-contrast=aa18&es-color-form__show-contrast=dnp) to check the contrast scores, using the grid showed me which background colors match with which text color so the site is accessible to everyone.
+
+![Color grader result](assets/images/color-grader.png);
