@@ -13,11 +13,11 @@ The users of this website will be able to find all relevant information about th
 
 #### [2. Planning stage](#planning-stage)
 
-    - [Site aims](#site-aims)
-    - [Target audience](#target-audience)
-    - [User stories](#user-stories)
-    - [How i will achieve this:](#how-i-will-achieve-this)
-    - [Color scheme](#color-scheme)
+- [Site aims](#site-aims)
+- [Target audience](#target-audience)
+- [User stories](#user-stories)
+- [How i will achieve this:](#how-i-will-achieve-this)
+- [Color scheme](#color-scheme)
 
 ## Planning stage <a name="planning-stage"></a>
 
