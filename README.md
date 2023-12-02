@@ -27,6 +27,7 @@ The users of this website will be able to find all relevant information about th
 - [Footer element](#footer-element)
   1. [Contact us](#contact-us)
   2. [Socials](#socials)
+  3. [Newsletter](#newsletter)
 
 ## Planning stage <a name="planning-stage"></a>
 
@@ -123,3 +124,9 @@ The footer element is at the very bottom of every page, it includes the followin
 - The socials section in the footer has a header stating its the socials section.
 - The socials section contains 4 links that would take the user to it's 4 different accounts on various social media platforms.
 - The platforms being Instagram, Youtube, Twitter and Facebook (Paw's Play doesnt actually have accounts with these platforms these are just for proof of concept)
+
+### Newsletter: <a name="newsletter"></a>
+
+- The newsletter section in the footer has a header stating its the newsletter section.
+- The newsletter section contains a input form with a button of sign up.
+- The newsletter forms only functionality is to display the given information in another page with the users email as proof of concept.
