@@ -78,3 +78,6 @@ The header element is stuck to the top of the page, Although it was a challangin
 #### Logo:
 
 ![logo](assets/images/logo-for-readme.png)
+
+- The logo text is related to dogs with "Paws" and also being a playful and enjoyable place for dogs with "Play"
+- It is also a link to the homepage
