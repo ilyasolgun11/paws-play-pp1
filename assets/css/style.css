@@ -764,6 +764,48 @@ header {
   width: 600px;
 }
 
+/* Newsletter Submission section  */
+#newsletter {
+  margin-top: 140px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.newsletter-img-container {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  justify-content: center;
+}
+
+.newsletter-img {
+  min-width: 400px;
+  width: 600px;
+}
+
+.newsletter-content {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.newsletter-content h2 {
+  margin-top: 120px;
+  font-size: 4.5rem;
+  font-style: italic;
+  color: #a7244e;
+}
+
+.newsletter-content p {
+  font-size: 1.1rem;
+  text-align: center;
+  max-width: 500px;
+}
+
 /* What we do */
 .what-we-do-header {
   font-size: 4rem;
@@ -1309,6 +1351,30 @@ header {
     width: 500px;
   }
 
+  /* Newsletter Submission section  */
+  #newsletter {
+    flex-direction: column;
+  }
+
+  .newsletter-img-container {
+    width: 100%;
+    height: 100%;
+  }
+
+  .newsletter-img {
+    margin-right: 30px;
+    width: 500px;
+  }
+
+  .newsletter-content h2 {
+    margin-top: 30px;
+    font-size: 4rem;
+  }
+
+  .newsletter-content p {
+    font-size: 1.1rem;
+  }
+
   /* About Page Styles  */
   /* Founders Info Section */
   #founders-info {
@@ -1566,6 +1632,7 @@ header {
 
   .eligibility-content p {
     width: 100%;
+    padding: 0 15px;
   }
   .eligibility-btn {
     margin-bottom: 20px;
@@ -1847,11 +1914,28 @@ header {
     font-size: 1rem;
     text-align: center;
     max-width: 500px;
+    padding: 0 10px;
   }
 
   .submission-img {
     min-width: 300px;
     width: 300px;
+  }
+
+  /* Newsletter Submission section  */
+  .newsletter-img {
+    min-width: 350px;
+    width: 350px;
+  }
+
+  .newsletter-content h2 {
+    margin-top: 30px;
+    font-size: 3rem;
+  }
+
+  .newsletter-content p {
+    padding: 0 10px;
+    font-size: 1rem;
   }
 
   /* What we do  */
