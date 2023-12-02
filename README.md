@@ -118,6 +118,8 @@ The footer element is at the very bottom of every page, it includes the followin
 
 ### Socials: <a name="socials"></a>
 
+![Socials](assets/images/readme/socials-readme.png)
+
 - The socials section in the footer has a header stating its the socials section.
 - The socials section contains 4 links that would take the user to it's 4 different accounts on various social media platforms.
 - The platforms being Instagram, Youtube, Twitter and Facebook (Paw's Play doesnt actually have accounts with these platforms these are just for proof of concept)
