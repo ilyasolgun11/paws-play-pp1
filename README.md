@@ -111,3 +111,6 @@ The footer element is at the very bottom of every page, it includes the followin
 ### Contact us: <a name="contact-us"></a>
 
 ![contact us](assets/images/readme/contact-us-readme.png)
+
+- The contact us section in the footer has a header stating its the contact us section
+- The contact us section contains 3 ways of contacting us; first being the support phone number, second being the location of the dog day care for in-person support and thirdly is the support email
