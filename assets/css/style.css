@@ -723,6 +723,46 @@ header {
   transition: all 0.2s ease;
 }
 
+/* Submission section */
+#submission {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.submission-img-container {
+  margin-top: 140px;
+  display: flex;
+  width: 100%;
+  height: 100%;
+}
+
+.submission-content {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.submission-content h2 {
+  font-size: 4.5rem;
+  font-style: italic;
+  color: #a7244e;
+}
+
+.submission-content p {
+  font-size: 1.1rem;
+  text-align: center;
+  max-width: 500px;
+}
+
+.submission-img {
+  min-width: 400px;
+  width: 600px;
+}
+
 /* What we do */
 .what-we-do-header {
   font-size: 4rem;
@@ -1249,6 +1289,25 @@ header {
     font-size: 1.9rem;
   }
 
+  /* Submission section */
+  #submission {
+    flex-direction: column;
+  }
+
+  .submission-img-container {
+    display: flex;
+    justify-content: center;
+  }
+
+  .submission-content h2 {
+    margin-top: 40px;
+    font-size: 4rem;
+  }
+
+  .submission-img {
+    width: 500px;
+  }
+
   /* About Page Styles  */
   /* Founders Info Section */
   #founders-info {
@@ -1767,6 +1826,31 @@ header {
     color: white;
     font-size: 1.3rem;
     border-radius: 20px;
+  }
+
+  /* Submission section */
+  .submission-img-container {
+    margin-top: 140px;
+    display: flex;
+    width: 90%;
+    height: 90%;
+  }
+
+  .submission-content h2 {
+    font-size: 3rem;
+    font-style: italic;
+    color: #a7244e;
+  }
+
+  .submission-content p {
+    font-size: 1rem;
+    text-align: center;
+    max-width: 500px;
+  }
+
+  .submission-img {
+    min-width: 300px;
+    width: 300px;
   }
 
   /* What we do  */
