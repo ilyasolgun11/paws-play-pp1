@@ -81,14 +81,14 @@ When deciding a color scheme, i decided i should go with colours matching with t
 
 The header element is stuck to the top of the page, Although it was a challanging task at the beggining of the project because of the max-width applied it was not able to align it to the middle, but now the issue is fixed. The header contains the following features:
 
-#### Logo: <a name="logo"></a>
+### Logo: <a name="logo"></a>
 
 ![logo](assets/images/logo-for-readme.png)
 
 - The logo text is related to dogs with "Paws" and also being a playful and enjoyable place for dogs with "Play"
 - It is also a link to the homepage
 
-#### Navigation: <a name="navigation"></a>
+### Navigation: <a name="navigation"></a>
 
 ##### Navigation for screen sizes larger than 786px:
 
