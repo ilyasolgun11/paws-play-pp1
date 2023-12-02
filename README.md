@@ -37,11 +37,10 @@ The users of this website will be able to find all relevant information about th
 
 ## Planning stage - How i will achieve this:
 
-1. The home page provides the user with clear information on our services and our features.
-2. The eligibility page provides a user with a video instructing them on which information to provide via the form below it such as
-
-- General details about their dog; their name, age, breed, weight, have they been neutered or spayed and is their any existing medical conditions?
-- Vaccination details; Is your dog up-to-date on vaccinations and have they received recent treatment for ticks/fleas?
-- Behavior ddetails; how does your dog typically interact with other dogs and how does your dog typically interact with other people?
-- Socialization details; have they previously attended a daycare? and do they have knowledge of commands?
-- Owner details; first name, last name, email and phone number
+- The home page provides the user with clear information on our services and our features.
+- The eligibility page provides a user with a video instructing them on which information to provide via the form below it such as
+  1. General details about their dog; their name, age, breed, weight, have they been neutered or spayed and is their any existing medical conditions?
+  2. Vaccination details; Is your dog up-to-date on vaccinations and have they received recent treatment for ticks/fleas?
+  3. Behavior ddetails; how does your dog typically interact with other dogs and how does your dog typically interact with other people?
+  4. Socialization details; have they previously attended a daycare? and do they have knowledge of commands?
+  5. Owner details; first name, last name, email and phone number
