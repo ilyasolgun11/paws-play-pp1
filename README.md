@@ -73,4 +73,8 @@ When deciding a color scheme, i decided i should go with colours matching with t
 
 ### Header Element
 
-The
+The header element is stuck to the top of the page, Although it was a challanging task at the beggining of the project because of the max-width applied it was not able to align it to the middle, but now the issue is fixed. The header contains the following features:
+
+#### Logo:
+
+##Paw's Play<i class="fa-solid fa-paw"></i>

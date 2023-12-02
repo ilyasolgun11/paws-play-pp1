@@ -315,6 +315,7 @@ header {
 /* Eligibility page styles  */
 /* Eligibility Header */
 .eligibility-page-header {
+  padding-top: 120px;
   display: flex;
   justify-content: space-between;
   align-items: center;
@@ -1440,8 +1441,19 @@ header {
   }
 
   /* Header Styles */
+
   header {
-    margin-top: 0px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 0;
+    top: 0;
+    left: 50%;
+    transform: translateX(-50%);
+    position: fixed;
+    width: 100%;
+    background-color: #fff;
+    z-index: 1000;
   }
 
   #hero-section {
