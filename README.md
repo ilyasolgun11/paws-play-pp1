@@ -140,3 +140,9 @@ The footer element is at the very bottom of every page, it includes the followin
 
 - The copyright section in the footer has a copyright icon stating its the copyright section.
 - The copyright section has a "2024" mark stating its valid till 2024, this is just a dummy copyright for proof of concept.
+
+## Typography
+
+- The Paw's Play site uses the font Poppins.
+- Also sans-serif for a back-up font.
+- The Poppins font was used because of how beautiful it is.
