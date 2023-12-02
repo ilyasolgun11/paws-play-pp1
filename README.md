@@ -29,6 +29,9 @@ The users of this website will be able to find all relevant information about th
   2. [Socials](#socials)
   3. [Newsletter](#newsletter)
   4. [Copyright](#copyright)
+- [Typography](#typography)
+
+### [4. Individual page elements](#individual-page-elements)
 
 ## Planning stage <a name="planning-stage"></a>
 
@@ -141,8 +144,12 @@ The footer element is at the very bottom of every page, it includes the followin
 - The copyright section in the footer has a copyright icon stating its the copyright section.
 - The copyright section has a "2024" mark stating its valid till 2024, this is just a dummy copyright for proof of concept.
 
-## Typography
+## Typography <a name="typography"></a>
 
 - The Paw's Play site uses the font Poppins.
 - Also sans-serif for a back-up font.
 - The Poppins font was used because of how beautiful it is.
+
+## Individual page elements <a name="individual-page-elements"></a>
+
+## Header Page Content:
