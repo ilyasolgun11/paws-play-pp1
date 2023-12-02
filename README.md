@@ -9,8 +9,9 @@ The users of this website will be able to find all relevant information about th
 
 ## Table of contents
 
-[1. Site Overview](#site-overview)
-[2. Planning stage](#planning-stage)
+#### [1. Site Overview](#site-overview)
+
+#### [2. Planning stage](#planning-stage)
 
 - [Site aims](#site-aims)
 - [Target audience](#target-audience)
