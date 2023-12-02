@@ -23,6 +23,7 @@ The users of this website will be able to find all relevant information about th
 
 - [Header element](#header-element)
   1. [Logo](#logo)
+- [Navigation](#navigation)
 
 ## Planning stage <a name="planning-stage"></a>
 
@@ -86,3 +87,7 @@ The header element is stuck to the top of the page, Although it was a challangin
 
 - The logo text is related to dogs with "Paws" and also being a playful and enjoyable place for dogs with "Play"
 - It is also a link to the homepage
+
+#### Navigation: <a name="navigation"></a>
+
+![navigation](assets/images/navigation-readme.png)
