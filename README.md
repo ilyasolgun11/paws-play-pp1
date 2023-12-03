@@ -154,7 +154,7 @@ The footer element is at the very bottom of every page, it includes the followin
 
 ## Individual page elements <a name="individual-page-elements"></a>
 
-## Home Hero Section Content: <a name="home-hero"></a>
+### Home Hero Section Content: <a name="home-hero"></a>
 
 - This section is what the customer sees first so its important that the information about the site and what it does is infront of them; and it is.
 - This section contains a chearfull header catching the attention of users.
@@ -163,7 +163,7 @@ The footer element is at the very bottom of every page, it includes the followin
 
 ![Hero section](assets/images/readme/hero-section-readme.png)
 
-## Home Eligibility Section Content: <a name="home-eligibility"></a>
+### Home Eligibility Section Content: <a name="home-eligibility"></a>
 
 - This section is how the customer is first introduced to the eligibility section through the home page.
 - This section states how important the eligibility section is to Paw's Play as it is how they ensure that the day care is a safe and enjoyable environment for all dogs.
