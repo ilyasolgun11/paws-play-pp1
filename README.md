@@ -9,15 +9,18 @@ The users of this website will be able to find all relevant information about th
 
 ## Table of contents
 
-[1. Site Overview](#site-overview)
-[2. Planning stage](#planning-stage)
+#### [1. Site Overview](#site-overview)
+
+#### [2. Planning stage](#planning-stage)
 
 - [Site aims](#site-aims)
 - [Target audience](#target-audience)
 - [User stories](#user-stories)
 - [How i will achieve this:](#how-i-will-achieve-this)
 - [Color scheme](#color-scheme)
-  [3. Elements used on all pages](#elements-used-on-all-pages)
+
+#### [3. Elements used on all pages](#elements-used-on-all-pages)
+
 - [Header element](#header-element)
   1. [Logo](#logo)
   2. [Navigation](#navigation)
@@ -27,7 +30,8 @@ The users of this website will be able to find all relevant information about th
   3. [Newsletter](#newsletter)
   4. [Copyright](#copyright)
 - [Typography](#typography)
-  [4. Individual page elements](#individual-page-elements)
+
+### [4. Individual page elements](#individual-page-elements)
 
 ## Planning stage <a name="planning-stage"></a>
 
