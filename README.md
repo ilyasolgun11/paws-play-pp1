@@ -10,21 +10,27 @@ The users of this website will be able to find all relevant information about th
 ## Table of contents
 
 1. [**Site Overview**](#site-overview)
-1. [**Planning stage**](#planning-stage) \*[**_Site aims_**](#site-aims) \*[**_Target audience_**](#target-audience) \*[**_User stories_**](#user-stories) \*[**_How i will achieve this:_**](#how-i-will-achieve-this) \*[**_Color scheme_**](#color-scheme)
+1. [**Planning stage**](#planning-stage)
 
-#### [3. Elements used on all pages](#elements-used-on-all-pages)
+- [**_Site aims_**](#site-aims)
+- [**_Target audience_**](#target-audience)
+- [**_User stories_**](#user-stories)
+- [**_How i will achieve this:_**](#how-i-will-achieve-this)
+- [**_Color scheme_**](#color-scheme)
 
-- [Header element](#header-element)
-  1. [Logo](#logo)
-  2. [Navigation](#navigation)
-- [Footer element](#footer-element)
-  1. [Contact us](#contact-us)
-  2. [Socials](#socials)
-  3. [Newsletter](#newsletter)
-  4. [Copyright](#copyright)
-- [Typography](#typography)
+1. [**Elements used on all pages**](#elements-used-on-all-pages)
 
-#### [4. Individual page elements](#individual-page-elements)
+- [**Header element**](#header-element)
+  - [**Logo**](#logo)
+  - [**Navigation**](#navigation)
+- [**Footer element**](#footer-element)
+  - [**Contact us**](#contact-us)
+  - [**Socials**](#socials)
+  - [**Newsletter**](#newsletter)
+  - [**Copyright**](#copyright)
+- [**Typography**](#typography)
+
+1. [**Individual page elements**](#individual-page-elements)
 
 ## Planning stage <a name="planning-stage"></a>
 
