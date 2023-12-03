@@ -10,7 +10,7 @@ The users of this website will be able to find all relevant information about th
 ## Table of contents
 
 1. [**Site Overview**](#site-overview)
-1. [**Planning stage**](#planning-stage)
+2. [**Planning stage**](#planning-stage)
 
 - [**_Site aims_**](#site-aims)
 - [**_Target audience_**](#target-audience)
@@ -18,7 +18,7 @@ The users of this website will be able to find all relevant information about th
 - [**_How i will achieve this:_**](#how-i-will-achieve-this)
 - [**_Color scheme_**](#color-scheme)
 
-1. [**Elements used on all pages**](#elements-used-on-all-pages)
+3. [**Elements used on all pages**](#elements-used-on-all-pages)
 
 - [**Header element**](#header-element)
   - [**Logo**](#logo)
@@ -30,7 +30,7 @@ The users of this website will be able to find all relevant information about th
   - [**Copyright**](#copyright)
 - [**Typography**](#typography)
 
-1. [**Individual page elements**](#individual-page-elements)
+4. [**Individual page elements**](#individual-page-elements)
 
 ## Planning stage <a name="planning-stage"></a>
 
