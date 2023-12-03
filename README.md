@@ -34,6 +34,7 @@ The users of this website will be able to find all relevant information about th
 
 - [**Home hero section**](#home-hero)
 - [**Home eligibility section**](#home-eligibility)
+- [**Home what we do best section**](#home-what-we-do-best)
 
 ## Planning stage <a name="planning-stage"></a>
 
@@ -169,4 +170,13 @@ The footer element is at the very bottom of every page, it includes the followin
 - This section states how important the eligibility section is to Paw's Play as it is how they ensure that the day care is a safe and enjoyable environment for all dogs.
 - This section also displays a joyful illustration of a women sitting with a dog, once again setting a fun and enjoyable experience.
 
-![Hero eligibility](assets/images/readme/home-eligibility-readme.png)
+![Homne eligibility](assets/images/readme/home-eligibility-readme.png)
+
+### Home What We Do Best Section Content: <a name="home-what-we-do-best"></a>
+
+- This section tells the user what Paw's Play does best when it comes to its day care services.
+- This sections key points are Dog day care, Dog training, Health and welness and Puppy training.
+- The paragraphs in each key point section describes the service provided in details.
+- In every key point section there is check icons showing the guaranteed service from each key point.
+
+![Home what we do best](assets/images/readme/home-what-we-do-best-readme.png)
