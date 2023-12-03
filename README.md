@@ -35,6 +35,7 @@ The users of this website will be able to find all relevant information about th
 - [**Home hero section**](#home-hero)
 - [**Home eligibility section**](#home-eligibility)
 - [**Home what we do best section**](#home-what-we-do-best)
+- [**Home location section**](#home-location)
 
 ## Planning stage <a name="planning-stage"></a>
 
@@ -180,3 +181,10 @@ The footer element is at the very bottom of every page, it includes the followin
 - In every key point section there is check icons showing the guaranteed service from each key point.
 
 ![Home what we do best](assets/images/readme/home-what-we-do-best-readme.png)
+
+### Home Location Section Content: <a name="home-location"></a>
+
+- This section shows the user the company location with a google maps location pin.
+- This section has an illustration of a couple walking a dog showing its a section insinuating that they are going to the dog day care.
+
+![Home location](assets/images/readme/home-location-readme.png)
