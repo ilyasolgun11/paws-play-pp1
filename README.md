@@ -152,3 +152,9 @@ The footer element is at the very bottom of every page, it includes the followin
 ## Individual page elements <a name="individual-page-elements"></a>
 
 ## Home Hero Section Content:
+
+- This section is what the customer sees first so its important that the information about the site and what it does is infront of them; and it is.
+- This section contains a chearfull header catching the attention of users.
+- This sections contains a paragraph telling the user that it's dog day care is like the dog version of a VIP stay.
+
+![Hero section](assets/images/readme/hero-section-readme.png)
