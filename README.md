@@ -9,15 +9,8 @@ The users of this website will be able to find all relevant information about th
 
 ## Table of contents
 
-#### [1. Site Overview](#site-overview)
-
-#### [2. Planning stage](#planning-stage)
-
-- [Site aims](#site-aims)
-- [Target audience](#target-audience)
-- [User stories](#user-stories)
-- [How i will achieve this:](#how-i-will-achieve-this)
-- [Color scheme](#color-scheme)
+1. [**Site Overview**](#site-overview)
+1. [**Planning stage**](#planning-stage) \*[**_Site aims_**](#site-aims) \*[**_Target audience_**](#target-audience) \*[**_User stories_**](#user-stories) \*[**_How i will achieve this:_**](#how-i-will-achieve-this) \*[**_Color scheme_**](#color-scheme)
 
 #### [3. Elements used on all pages](#elements-used-on-all-pages)
 
@@ -31,7 +24,7 @@ The users of this website will be able to find all relevant information about th
   4. [Copyright](#copyright)
 - [Typography](#typography)
 
-### [4. Individual page elements](#individual-page-elements)
+#### [4. Individual page elements](#individual-page-elements)
 
 ## Planning stage <a name="planning-stage"></a>
 
@@ -150,6 +143,6 @@ The footer element is at the very bottom of every page, it includes the followin
 - Also sans-serif for a back-up font.
 - The Poppins font was used because of how beautiful it is.
 
-### Individual page elements <a name="individual-page-elements"></a>
+## Individual page elements <a name="individual-page-elements"></a>
 
-## Header Page Content:
+## Home Hero Section Content:
