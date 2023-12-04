@@ -161,10 +161,10 @@ The footer element is at the very bottom of every page, it includes the followin
 
 ### Home Hero Section Content: <a name="home-hero"></a>
 
-- This section is what the customer sees first so its important that the information about the site and what it does is infront of them; and it is.
-- This section contains a chearfull header catching the attention of users.
+- This section is what the customer sees first so its important that the information about the site and what it does is in-front of them; and it is.
+- This section contains a cheerful header catching the attention of users.
 - This sections contains a paragraph telling the user that it's dog day care is like the dog version of a VIP stay.
-- This section also displays an illustration of a women petting a dog, setting a joyfull experience for the user.
+- This section also displays an illustration of a women petting a dog, setting a joyful experience for the user.
 
 ![Hero section](assets/images/readme/hero-section-readme.png)
 
@@ -179,7 +179,7 @@ The footer element is at the very bottom of every page, it includes the followin
 ### Home What We Do Best Section Content: <a name="home-what-we-do-best"></a>
 
 - This section tells the user what Paw's Play does best when it comes to its day care services.
-- This sections key points are Dog day care, Dog training, Health and welness and Puppy training.
+- This sections key points are Dog day care, Dog training, Health and wellness and Puppy training.
 - The paragraphs in each key point section describes the service provided in details.
 - In every key point section there is check icons showing the guaranteed service from each key point.
 
@@ -194,7 +194,7 @@ The footer element is at the very bottom of every page, it includes the followin
 
 ### Eligibility Hero Section Content: <a name="eligibility-hero"></a>
 
-- This section shows the user the eligibility hero section with an illustration of a female veternatian holding a dog.
+- This section shows the user the eligibility hero section with an illustration of a female veterinarian holding a dog.
 - This section also displays a h2 with the text eligibility showing the users that its the eligibility section.
 - This section also displays a paragraph telling the user to scroll down and fill out the eligibility form in order to sign them up with Paw's Play.
 
@@ -203,6 +203,14 @@ The footer element is at the very bottom of every page, it includes the followin
 ### Eligibility Video Section Content: <a name="eligibility-video"></a>
 
 - This section displays a video created for Paw's Play telling the user the eligibility requirements.
-- This video was created by an animation company on Fiverr.
+- This video was created by an animation company on Fiverr for Paw's Play.
 
 ![Eligibility video](assets/images/readme/eligibility-video.png)
+
+### Eligibility Form Section Content: <a name="eligibility-form"></a>
+
+- This section displays a form with 5 field-sets for the user to fill in; the legends are General Details, Vaccinations, Behavior, Socialization and Owner Detials.
+- The inputs with type="text" has label's that is only visible to screen readers for ascetic's reasons.
+- Once the user fill's out all required fields and clicks submit they will be navigates to the eligibility-submission.html page.
+
+![Eligibility form](assets/images/readme/eligibility-form.png)
