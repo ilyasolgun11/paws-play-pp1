@@ -38,6 +38,7 @@ The users of this website will be able to find all relevant information about th
 - [**Home location section**](#home-location)
 - [**Eligibility hero section**](#eligibility-hero)
 - [**Eligibility video section**](#eligibility-video)
+- [**Eligibility form section**](#eligibility-form)
 
 ## Planning stage <a name="planning-stage"></a>
 
