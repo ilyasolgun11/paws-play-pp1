@@ -36,7 +36,6 @@ The users of this website will be able to find all relevant information about th
 - [**Home eligibility section**](#home-eligibility)
 - [**Home what we do best section**](#home-what-we-do-best)
 - [**Home location section**](#home-location)
-
 - [**Eligibility hero section**](#eligibility-hero)
 - [**Eligibility video section**](#eligibility-video)
 
