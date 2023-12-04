@@ -39,6 +39,7 @@ The users of this website will be able to find all relevant information about th
 - [**Eligibility hero section**](#eligibility-hero)
 - [**Eligibility video section**](#eligibility-video)
 - [**Eligibility form section**](#eligibility-form)
+- [**About our story section**](#about-our-story)
 
 ## Planning stage <a name="planning-stage"></a>
 
@@ -214,3 +215,8 @@ The footer element is at the very bottom of every page, it includes the followin
 - Once the user fill's out all required fields and clicks submit they will be navigates to the eligibility-submission.html page.
 
 ![Eligibility form](assets/images/readme/eligibility-form.png)
+
+### Eligibility About Our Story Section Content: <a name="about-our-story"></a>
+
+- This section displays an illustration of the founders Grace and Thomas Shelby (yes this is a reference to the netflix series "The Peaky Blinders").
+- This section also displays a paragraph of how they got started and the vision behind the company; in a short summary they both love dog's and want a safe and enjoyable environment for them.
