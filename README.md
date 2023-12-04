@@ -216,7 +216,9 @@ The footer element is at the very bottom of every page, it includes the followin
 
 ![Eligibility form](assets/images/readme/eligibility-form.png)
 
-### Eligibility About Our Story Section Content: <a name="about-our-story"></a>
+### About Our Story Section Content: <a name="about-our-story"></a>
 
 - This section displays an illustration of the founders Grace and Thomas Shelby (yes this is a reference to the netflix series "The Peaky Blinders").
 - This section also displays a paragraph of how they got started and the vision behind the company; in a short summary they both love dog's and want a safe and enjoyable environment for them.
+
+![About our story](assets/images/readme/about-our-story.png)
