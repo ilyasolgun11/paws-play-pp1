@@ -38,6 +38,7 @@ The users of this website will be able to find all relevant information about th
 - [**Home location section**](#home-location)
 
 - [**Eligibility hero section**](#eligibility-hero)
+- [**Eligibility video section**](#eligibility-video)
 
 ## Planning stage <a name="planning-stage"></a>
 
@@ -198,3 +199,10 @@ The footer element is at the very bottom of every page, it includes the followin
 - This section also displays a paragraph telling the user to scroll down and fill out the eligibility form in order to sign them up with Paw's Play.
 
 ![Eligibility hero](assets/images/readme/eligibility-hero.png)
+
+### Eligibility Video Section Content: <a name="eligibility-video"></a>
+
+- This section displays a video created for Paw's Play telling the user the eligibility requirements.
+- This video was created by an animation company on Fiverr.
+
+![Eligibility video](assets/images/readme/eligibility-video.png)
