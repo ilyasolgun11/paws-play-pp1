@@ -37,6 +37,8 @@ The users of this website will be able to find all relevant information about th
 - [**Home what we do best section**](#home-what-we-do-best)
 - [**Home location section**](#home-location)
 
+- [**Eligibility hero section**](#eligibility-hero)
+
 ## Planning stage <a name="planning-stage"></a>
 
 ### Site Aims: <a name="site-aims"></a>
@@ -185,6 +187,14 @@ The footer element is at the very bottom of every page, it includes the followin
 ### Home Location Section Content: <a name="home-location"></a>
 
 - This section shows the user the company location with a google maps location pin.
-- This section has an illustration of a couple walking a dog showing its a section insinuating that they are going to the dog day care.
+- This section has an illustration of a couple walking a dog showing its an image insinuating that they are going to the dog day care.
 
 ![Home location](assets/images/readme/home-location-readme.png)
+
+### Eligibility Hero Section Content: <a name="eligibility-hero"></a>
+
+- This section shows the user the eligibility hero section with an illustration of a female veternatian holding a dog.
+- This section also displays a h2 with the text eligibility showing the users that its the eligibility section.
+- This section also displays a paragraph telling the user to scroll down and fill out the eligibility form in order to sign them up with Paw's Play.
+
+![Eligibility hero](assets/images/readme/eligibility-hero.png)
