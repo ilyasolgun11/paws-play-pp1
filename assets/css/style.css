@@ -1003,7 +1003,8 @@ header {
 }
 
 .our-trainers-first,
-.our-trainers-second {
+.our-trainers-second,
+.our-trainers-third {
   margin-top: 100px;
   display: flex;
   justify-content: center;
@@ -1011,7 +1012,8 @@ header {
   width: 100%;
 }
 
-.our-trainers-first-img-container {
+.our-trainers-first-img-container,
+.our-trainers-third-img-container {
   padding-top: 20px;
   background: linear-gradient(to right, #a7244e, transparent 60%);
   display: flex;
@@ -1035,7 +1037,8 @@ header {
   transition: border-bottom-right-radius 0.3s ease;
 }
 
-.our-trainers-first-content {
+.our-trainers-first-content,
+.our-trainers-third-content {
   height: 400px;
   width: 100%;
   display: flex;
@@ -1053,7 +1056,8 @@ header {
   text-align: end;
 }
 
-.our-trainers-first-img {
+.our-trainers-first-img,
+.our-trainers-third-img {
   border-bottom-right-radius: 50%;
   min-width: 350px;
   width: 450px;
@@ -1065,7 +1069,8 @@ header {
   width: 450px;
 }
 
-.our-trainers-first-content h3 {
+.our-trainers-first-content h3,
+.our-trainers-third-content h3 {
   display: flex;
   align-items: center;
   font-size: 3rem;
@@ -1081,7 +1086,8 @@ header {
 }
 
 .our-trainers-first-content h3 span,
-.our-trainers-second-content h3 span {
+.our-trainers-second-content h3 span,
+.our-trainers-third-content h3 span {
   margin-left: 12px;
   margin-bottom: 2px;
   font-size: 1rem;
@@ -1092,12 +1098,14 @@ header {
 }
 
 .our-trainers-first-content h3 span i,
-.our-trainers-second-content h3 span i {
+.our-trainers-second-content h3 span i,
+.our-trainers-third-content h3 span i {
   margin-left: 3px;
 }
 
 .our-trainers-first-content p,
-.our-trainers-second-content p {
+.our-trainers-second-content p,
+.our-trainers-third-content p {
   font-size: 1rem;
   color: #131313;
 }
