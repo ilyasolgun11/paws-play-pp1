@@ -36,6 +36,7 @@ The users of this website will be able to find all relevant information about th
    - [**Eligibility form section**](#eligibility-form)
    - [**About our story section**](#about-our-story)
    - [**About our mission section**](#about-our-mission)
+   - [**About join the family section**](#about-join-the-family)
 
 ## Planning stage <a name="planning-stage"></a>
 
@@ -225,3 +226,11 @@ The footer element is at the very bottom of every page, it includes the followin
 - This section also displays a paragraph showing the user the mission for Paw's Play and how they transcend pet care.
 
 ![About our mission](assets/images/readme/our-mission-readme.png)
+
+### About Join The Family Section Content: <a name="about-join-the-family"></a>
+
+- This section displays an illustration same as the one for the eligibility hero section to convey they are related.
+- This section has a header saying "Join the Family" to convey that once you are a customer with Paw's Play, you become a family member too.
+- This section also has a paragraph that conveys the message from the header and also has a call to action to navigate the user to the eligibility page.
+
+![About join the family](assets/images//readme/join-the-family-readme.png)
