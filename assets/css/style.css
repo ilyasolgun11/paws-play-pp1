@@ -989,6 +989,119 @@ header {
   font-weight: 500;
 }
 
+/* Our Trainers section  */
+#our-trainers {
+  margin-top: 200px;
+}
+
+#our-trainers h2 {
+  font-size: 4rem;
+  text-align: center;
+  color: #a7244e;
+  margin-bottom: 80px;
+  font-style: italic;
+}
+
+.our-trainers-first,
+.our-trainers-second {
+  margin-top: 100px;
+  display: flex;
+  justify-content: center;
+  align-content: center;
+  width: 100%;
+}
+
+.our-trainers-first-img-container {
+  padding-top: 20px;
+  background: linear-gradient(to right, #a7244e, transparent 60%);
+  display: flex;
+  border-radius: 30px;
+  border-bottom-right-radius: 50%;
+  justify-content: center;
+  align-items: center;
+  width: 70%;
+  transition: border-bottom-right-radius 0.3s ease;
+}
+
+.our-trainers-second-img-container {
+  padding-top: 20px;
+  background: linear-gradient(to right, transparent 60%, #a7244e);
+  display: flex;
+  border-radius: 30px;
+  border-bottom-left-radius: 50%;
+  justify-content: center;
+  align-items: center;
+  width: 70%;
+  transition: border-bottom-right-radius 0.3s ease;
+}
+
+.our-trainers-first-content {
+  height: 400px;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  text-align: left;
+}
+
+.our-trainers-second-content {
+  height: 400px;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  text-align: end;
+}
+
+.our-trainers-first-img {
+  border-bottom-right-radius: 50%;
+  min-width: 350px;
+  width: 450px;
+}
+
+.our-trainers-second-img {
+  border-bottom-left-radius: 50%;
+  min-width: 350px;
+  width: 450px;
+}
+
+.our-trainers-first-content h3 {
+  display: flex;
+  align-items: center;
+  font-size: 3rem;
+  color: #a7244e;
+}
+
+.our-trainers-second-content h3 {
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+  font-size: 3rem;
+  color: #a7244e;
+}
+
+.our-trainers-first-content h3 span,
+.our-trainers-second-content h3 span {
+  margin-left: 12px;
+  margin-bottom: 2px;
+  font-size: 1rem;
+  color: #ffffff;
+  background-color: #131313;
+  padding: 9px 25px;
+  border-radius: 10px;
+}
+
+.our-trainers-first-content h3 span i,
+.our-trainers-second-content h3 span i {
+  margin-left: 3px;
+}
+
+.our-trainers-first-content p,
+.our-trainers-second-content p {
+  font-size: 1rem;
+  color: #131313;
+}
+
 /* Join the Family */
 #join-the-family {
   margin-top: 120px;
