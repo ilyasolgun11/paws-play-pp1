@@ -242,3 +242,7 @@ The footer element is at the very bottom of every page, it includes the followin
 - This section also has a paragraph that conveys the message from the header and also has a call to action to navigate the user to the eligibility page.
 
 ![About join the family](assets/images//readme/join-the-family-readme.png)
+
+## Testing Phase
+
+I have moved the details for the testing of the Paw's Play site to ![Testing.md](./TESTING.md)
