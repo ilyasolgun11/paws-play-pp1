@@ -36,6 +36,7 @@ The users of this website will be able to find all relevant information about th
    - [**Eligibility form section**](#eligibility-form)
    - [**About our story section**](#about-our-story)
    - [**About our mission section**](#about-our-mission)
+   - [**About our trainers section**](#about-our-trainers)
    - [**About join the family section**](#about-join-the-family)
 
 ## Planning stage <a name="planning-stage"></a>
@@ -226,6 +227,13 @@ The footer element is at the very bottom of every page, it includes the followin
 - This section also displays a paragraph showing the user the mission for Paw's Play and how they transcend pet care.
 
 ![About our mission](assets/images/readme/our-mission-readme.png)
+
+### About Our Trainers Section Content: <a name="about-our-trainers"></a>
+
+- This section displays 3 sections of containing information about the 3 trainers at Paw's Play.
+- Each section has an illustration of the trainer, their name, their profession and their biography.
+
+![About our trainers](assets/images/readme/our-trainers-readme.png)
 
 ### About Join The Family Section Content: <a name="about-join-the-family"></a>
 
