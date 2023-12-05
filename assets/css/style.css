@@ -1545,7 +1545,83 @@ header {
   }
 
   .our-mission-second p {
+    padding: 0 20px;
     text-align: center;
+  }
+
+  /* Our Trainers section  */
+  #our-trainers h2 {
+    font-size: 2.4rem;
+    margin-bottom: 15px;
+  }
+
+  .our-trainers-first,
+  .our-trainers-second,
+  .our-trainers-third {
+    margin-top: 0px;
+    flex-direction: column;
+    width: 100%;
+  }
+
+  .our-trainers-first-img-container,
+  .our-trainers-third-img-container {
+    background: linear-gradient(to top, #a7244e, transparent 60%);
+    border-radius: 30px;
+    border-bottom-right-radius: 30px;
+    width: 100%;
+  }
+
+  .our-trainers-second-img-container {
+    background: linear-gradient(to bottom, transparent 60%, #a7244e);
+    border-radius: 30px;
+    border-bottom-left-radius: 30px;
+    width: 100%;
+  }
+
+  .our-trainers-first-content,
+  .our-trainers-third-content {
+    padding: 0 20px;
+    text-align: center;
+    height: 300px;
+  }
+
+  .our-trainers-second-content {
+    order: 1;
+    padding: 0 20px;
+    text-align: center;
+    height: 300px;
+  }
+
+  .our-trainers-first-img,
+  .our-trainers-third-img {
+    border-bottom-right-radius: 0%;
+    min-width: 300px;
+    width: 350px;
+  }
+
+  .our-trainers-second-img {
+    order: 0;
+    border-bottom-left-radius: 0%;
+    min-width: 300px;
+    width: 350px;
+  }
+
+  .our-trainers-first-content h3,
+  .our-trainers-third-content h3 {
+    justify-content: center;
+    font-size: 2rem;
+  }
+
+  .our-trainers-second-content h3 {
+    justify-content: center;
+    font-size: 2rem;
+  }
+
+  .our-trainers-first-content h3 span,
+  .our-trainers-second-content h3 span,
+  .our-trainers-third-content h3 span {
+    font-size: 0.9rem;
+    padding: 7px 15px;
   }
 
   /* Join the Family */
@@ -1570,6 +1646,7 @@ header {
   }
 
   .join-the-family-first p {
+    padding: 0 20px;
     text-align: center;
   }
 
