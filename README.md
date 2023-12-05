@@ -39,7 +39,7 @@ The users of this website will be able to find all relevant information about th
 - [**Eligibility hero section**](#eligibility-hero)
 - [**Eligibility video section**](#eligibility-video)
 - [**Eligibility form section**](#eligibility-form)
-- [**About our story section**](#about-our-story)
+- [**About our story section**](#about-our-story) -[**About our mission section**](#about-our-mission)
 
 ## Planning stage <a name="planning-stage"></a>
 
@@ -222,3 +222,10 @@ The footer element is at the very bottom of every page, it includes the followin
 - This section also displays a paragraph of how they got started and the vision behind the company; in a short summary they both love dog's and want a safe and enjoyable environment for them.
 
 ![About our story](assets/images/readme/about-our-story.png)
+
+### About Our Mission Section Content: <a name="about-our-mission"></a>
+
+- This section displays an illustration of Grace and Thomas Shelby (founders) "planning" with sticky notes, showing the user a relevant image to the paragraph next to it.
+- This section also displays a paragraph showing the user the mission for Paw's Play and how they transcend pet care.
+
+![About our mission](assets/images/readme/our-mission-readme.png)
