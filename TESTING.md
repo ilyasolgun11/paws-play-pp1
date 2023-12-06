@@ -43,3 +43,8 @@ During development i tested my project in various ways such as:
      - When i hovered over the logo, the entire logo rotated.
    - Solution:
      - I added the ":hover" pseudo code next to the logo like this ".logo:hover" and then after that i targeted the paw itself like this ".logo:hover .fa-paw"
+5. Intended Outcome - For all used in the site to not be blurry.
+   - Issue:
+     - I was setting "%" as width for all the images so they shrink and grow when the screen size itself shrinks and grows
+   - Solution:
+     - I set min and max width's for all images and only used "px", i also adjusted the min and max width's for different screen sizes.

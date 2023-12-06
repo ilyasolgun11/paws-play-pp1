@@ -1255,6 +1255,7 @@ header {
 }
 
 .footer-news label {
+  font-size: 0.1rem;
   width: 0px;
   height: 0px;
 }
