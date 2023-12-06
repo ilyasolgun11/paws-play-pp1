@@ -841,7 +841,7 @@ header {
   width: 60%;
 }
 
-.health-welness {
+.health-wellness {
   border-radius: 15px;
   padding: 52.2px 40px;
   color: #131313;
@@ -859,7 +859,7 @@ header {
 
 .dog-day-care-header h2,
 .dog-training-header h2,
-.health-welness h2,
+.health-wellness h2,
 .puppy-training h2 {
   font-size: 2rem;
   margin-bottom: 10px;
@@ -867,7 +867,7 @@ header {
 
 .dog-day-care-content p,
 .dog-training-content p,
-.health-welness p,
+.health-wellness p,
 .puppy-training p {
   margin-bottom: 15px;
 }
@@ -1302,11 +1302,11 @@ header {
     font-size: 2rem;
   }
   .hero-content h2 {
-    font-size: 2rem;
+    font-size: 1.7rem;
   }
   .hero-underline {
     width: 230px;
-    right: 75px;
+    left: 40px;
   }
 
   /* Main Section */
@@ -1337,7 +1337,7 @@ header {
 
   .dog-day-care,
   .dog-training,
-  .health-welness,
+  .health-wellness,
   .puppy-training {
     width: 100%;
   }
@@ -1354,7 +1354,7 @@ header {
     order: 2;
   }
 
-  .health-welness {
+  .health-wellness {
     order: 3;
   }
 
