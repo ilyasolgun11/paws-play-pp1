@@ -3,6 +3,10 @@
 - [**During Development Testing**](#during-development-testing)
   - [**_Manual testing_**](#during-development-manual-testing)
   - [**_Bugs & fixes_**](#during-development-bugs-fixes)
+- [**Post Development Testing**](#post-development-testing)
+  - [**_Validators_**](#validators)
+    - [**_HTML_**](#HTML)
+    - [**_CSS_**](#CSS)
 
 ## During Development Testing <a name="during-development-testing"></a>
 
@@ -54,10 +58,16 @@ During development i tested my project in various ways such as:
    - Solution:
      - I used google to find the google maps api and created myself an API key, i also used google to find the url structure so i can use the latitude and longitude of the location and add it to the url.
 
-## Post Development Testing
+## Post Development Testing <a name="post-development-testing"></a>
 
-### Validators
+### Validators <a name="validators"></a>
 
-_HTML_ - [https://validator.w3.org/nu/](https://validator.w3.org/nu/)
+_HTML_ - [https://validator.w3.org/nu/](https://validator.w3.org/nu/) <a name="HTML"></a>
 
-- All pages tested, no issue found
+- All pages tested, no issue found.
+
+_CSS_ - [https://jigsaw.w3.org/css-validator/](https://jigsaw.w3.org/css-validator/) <a name="CSS"></a>
+
+- All pages tested, no issue found.
+
+##
