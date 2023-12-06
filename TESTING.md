@@ -48,3 +48,16 @@ During development i tested my project in various ways such as:
      - I was setting "%" as width for all the images so they shrink and grow when the screen size itself shrinks and grows
    - Solution:
      - I set min and max width's for all images and only used "px", i also adjusted the min and max width's for different screen sizes.
+6. Intended Outcome - For the imaginary location for Paw's Play to show up in a map for the users to find in the location section.
+   - Issue:
+     - I was not familiar with google maps or API's so i was not sure how to achieve this.
+   - Solution:
+     - I used google to find the google maps api and created myself an API key, i also used google to find the url structure so i can use the latitude and longitude of the location and add it to the url.
+
+## Post Development Testing
+
+### Validators
+
+_HTML_ - [https://validator.w3.org/nu/](https://validator.w3.org/nu/)
+
+- All pages tested, no issue found
