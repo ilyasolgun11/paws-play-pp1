@@ -1130,9 +1130,9 @@ header {
 }
 
 .join-the-family-img {
-  min-width: 350px;
-  max-width: 600px;
-  min-height: 350px;
+  width: 600px;
+  height: 600px;
+  object-fit: contain;
 }
 
 .join-the-family-first p {
@@ -1837,6 +1837,8 @@ header {
   }
   .eligibility-img {
     width: 350px;
+    height: 350px;
+    object-fit: contain;
     margin-left: 65px;
   }
 
@@ -1872,6 +1874,7 @@ header {
   .eligibility-page-hero-img {
     width: 350px;
     height: 350px;
+    margin-bottom: 50px;
     object-fit: contain;
     margin-left: 60px;
   }
@@ -2149,7 +2152,9 @@ header {
   }
 
   .location-img {
-    width: 80%;
+    width: 350px;
+    height: 350px;
+    object-fit: contain;
     margin-left: 60px;
   }
 
