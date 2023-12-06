@@ -184,8 +184,8 @@ header {
 }
 
 .hero-img {
-  min-width: 350px;
-  min-height: 350px;
+  width: 600px;
+  height: 600px;
   object-fit: contain;
 }
 
@@ -305,10 +305,8 @@ header {
 
 .eligibility-img {
   object-fit: contain;
-  min-width: 350px;
-  max-width: 600px;
-  min-height: 350px;
-  height: auto;
+  width: 600px;
+  height: 600px;
   margin-left: 70px;
 }
 
@@ -896,10 +894,9 @@ header {
 }
 
 .location-img {
-  min-width: 350px;
-  max-width: 600px;
-  min-height: 350px;
-  height: auto;
+  width: 600px;
+  height: 600px;
+  object-fit: contain;
 }
 
 .location-map {
@@ -1654,8 +1651,8 @@ header {
 
   .join-the-family-img {
     margin-left: 40px;
-    width: 80%;
-    height: 80%;
+    width: 350px;
+    height: 350px;
   }
 
   .join-the-family-btn-container {
@@ -1790,6 +1787,7 @@ header {
   #hero-section {
     flex-direction: column;
     padding: 0 20px;
+    padding-top: 140px;
   }
 
   .hero-content h1 {
@@ -1801,7 +1799,7 @@ header {
   .hero-img {
     margin-left: 60px;
     height: 100%;
-    width: 85%;
+    width: 350px;
     object-fit: contain;
   }
 
@@ -1838,7 +1836,7 @@ header {
     margin-bottom: 20px;
   }
   .eligibility-img {
-    width: 75%;
+    width: 350px;
     margin-left: 65px;
   }
 
@@ -1872,8 +1870,8 @@ header {
   }
 
   .eligibility-page-hero-img {
-    width: 85%;
-    height: 85%;
+    width: 350px;
+    height: 350px;
     object-fit: contain;
     margin-left: 60px;
   }
