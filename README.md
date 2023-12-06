@@ -245,4 +245,4 @@ The footer element is at the very bottom of every page, it includes the followin
 
 ## Testing Phase
 
-I have moved the details for the testing of the Paw's Play site to ![Testing.md](./TESTING.md)
+I have moved the details for the testing of the Paw's Play site to [Testing.md](./TESTING.md)
