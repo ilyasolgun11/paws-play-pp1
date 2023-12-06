@@ -77,11 +77,15 @@ _CSS_ - [https://jigsaw.w3.org/css-validator/](https://jigsaw.w3.org/css-validat
 
 ### Test Conditions <a name="testing-conditions"></a>
 
-    - I did all lighthouse tests in incognito mode to avoid interference from browser extensions.
-    - I ran the tests for both mobile and desktop.
+- I did all lighthouse tests in incognito mode to avoid interference from browser extensions.
+- I ran the tests for both mobile and desktop.
 
 ### Desktop version <a name="desktop-version"></a>
 
 1. _index.html:_
 
 ![index.html desktop](assets/images/testing/index.html-desktop.png)
+
+2. _about.html:_
+
+![about.html desktop](assets/images/testing/about.html-desktop.png)
