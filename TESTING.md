@@ -10,6 +10,7 @@
 - [**Lighthouse Scores**](#lighthouse-scores)
   - [**_Testing conditions_**](#test-conditions)
   - [**_Desktop version_**](#desktop-version)
+  - [**_Mobile version_**](#mobile-version)
 
 ## During Development Testing <a name="during-development-testing"></a>
 
@@ -90,6 +91,14 @@ _CSS_ - [https://jigsaw.w3.org/css-validator/](https://jigsaw.w3.org/css-validat
 
 ![about.html desktop](assets/images/testing/about.html-desktop.png)
 
-2. _eligibility.html_
+3. _eligibility:.html_
 
 ![eligibility.html desktop](assets/images/testing/eligiblity-lighthouse.png)
+
+### Mobile version <a name="mobile-version"></a>
+
+1. _index.html:_
+
+- For the mobile version of the site the images are still too big according to the lighthouse score, this score was initially in the 65/76 range, i brought this up to 85/89 range by converting all images from png to webp and also compressing the files, but i still didn't get above 90.
+
+![index.html mobile](assets/images/testing/index.html-mobile.png)
