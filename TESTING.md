@@ -124,3 +124,7 @@ _CSS_ - [https://jigsaw.w3.org/css-validator/](https://jigsaw.w3.org/css-validat
 4. _eligibility-submission.html:_
 
 ![eligibility-submission.html mobile](assets/images/testing/eligibility-submission-mobile.png)
+
+5. _newsletter.html:_
+
+![newsletter.html mobile](assets/images/testing/newsletter.html-mobile.png)
