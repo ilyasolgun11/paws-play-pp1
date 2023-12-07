@@ -89,3 +89,7 @@ _CSS_ - [https://jigsaw.w3.org/css-validator/](https://jigsaw.w3.org/css-validat
 2. _about.html:_
 
 ![about.html desktop](assets/images/testing/about.html-desktop.png)
+
+2. _eligibility.html_
+
+![eligibility.html desktop](assets/images/testing/eligiblity-lighthouse.png)
