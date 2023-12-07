@@ -38,6 +38,8 @@ The users of this website will be able to find all relevant information about th
    - [**About our mission section**](#about-our-mission)
    - [**About our trainers section**](#about-our-trainers)
    - [**About join the family section**](#about-join-the-family)
+5. [**Testing phase**](#testing-phase)
+6. [**Deployment**](#deployment)
 
 ## Planning stage <a name="planning-stage"></a>
 
@@ -243,6 +245,17 @@ The footer element is at the very bottom of every page, it includes the followin
 
 ![About join the family](assets/images//readme/join-the-family-readme.png)
 
-## Testing Phase
+## Testing Phase <a name="testing-phase"></a>
 
 I have moved the details for the testing of the Paw's Play site to [Testing.md](./TESTING.md)
+
+## Deployment <a name="deployment"></a>
+
+I deployed the site on GitGub using the following procedure:
+
+1. Once on the project's repository i clicked on the _setting_'s tab.
+2. Then selected the _Pages_ tab.
+3. Then under the _Source_ section i selected the _Main_ branch from the dropdown menu and clicked _Save_.
+4. After a few minutes the page was deployed.
+
+Link to the [live site](https://ilyasolgun11.github.io/paws-play-pp1/index.html).
