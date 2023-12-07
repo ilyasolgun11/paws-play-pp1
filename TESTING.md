@@ -95,6 +95,10 @@ _CSS_ - [https://jigsaw.w3.org/css-validator/](https://jigsaw.w3.org/css-validat
 
 ![eligibility.html desktop](assets/images/testing/eligiblity-lighthouse.png)
 
+4. _eligibility-submission.html_
+
+![eligibility-submission.html desktop](assets/images/testing/eligibility-submission-lighthouse.png)
+
 ### Mobile version <a name="mobile-version"></a>
 
 1. _index.html:_
