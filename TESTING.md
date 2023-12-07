@@ -91,15 +91,15 @@ _CSS_ - [https://jigsaw.w3.org/css-validator/](https://jigsaw.w3.org/css-validat
 
 ![about.html desktop](assets/images/testing/about.html-desktop.png)
 
-3. _eligibility:.html_
+3. _eligibility.html:_
 
 ![eligibility.html desktop](assets/images/testing/eligiblity-lighthouse.png)
 
-4. _eligibility-submission.html_
+4. _eligibility-submission.html:_
 
 ![eligibility-submission.html desktop](assets/images/testing/eligibility-submission-lighthouse.png)
 
-5. _newsletter.html_
+5. _newsletter.html:_
 
 ![newsletter.html desktop](assets/images/testing/news-letter.html-desktop.png)
 
@@ -114,3 +114,9 @@ _CSS_ - [https://jigsaw.w3.org/css-validator/](https://jigsaw.w3.org/css-validat
 2. _eligibility.html:_
 
 ![eligibility.html mobile](assets/images/testing/eligibility-html-mobile.png)
+
+3. _about.html:_
+
+- For the mobile version i have the same issue as the index.html but there is more photos in this file so the score is around 81-85.
+
+![about.html mobile](assets/images/testing/about.html-mobile.png)
