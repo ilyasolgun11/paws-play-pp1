@@ -110,3 +110,7 @@ _CSS_ - [https://jigsaw.w3.org/css-validator/](https://jigsaw.w3.org/css-validat
 - For the mobile version of the site the images are still too big according to the lighthouse score, this score was initially in the 65/76 range, i brought this up to 85/89 range by converting all images from png to webp and also compressing the files, but i still didn't get above 90. I was also not able to compress then any further.
 
 ![index.html mobile](assets/images/testing/index.html-mobile.png)
+
+2. _eligibility.html:_
+
+![eligibility.html mobile](assets/images/testing/eligibility-html-mobile.png)
