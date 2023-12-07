@@ -141,7 +141,7 @@ nav {
 
 .nav-toggle-label {
   margin-right: 12px;
-  display: none;
+  visibility: hidden;
 }
 
 .nav-toggle-label span {
@@ -1698,7 +1698,7 @@ header {
     margin-bottom: 0;
     font-size: 1.3rem;
     color: #131313;
-    display: block;
+    visibility: visible;
     cursor: pointer;
   }
 

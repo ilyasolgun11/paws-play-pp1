@@ -128,3 +128,9 @@ _CSS_ - [https://jigsaw.w3.org/css-validator/](https://jigsaw.w3.org/css-validat
 5. _newsletter.html:_
 
 ![newsletter.html mobile](assets/images/testing/newsletter.html-mobile.png)
+
+## Accessability
+
+In addition to the accessability score on light house I also used [WAVE - Web accessability evaluation tool](https://wave.webaim.org/) to check my pages for accessability and no errors were returned.
+
+### [Return to README.md](./README.md)
