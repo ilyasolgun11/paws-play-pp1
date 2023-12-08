@@ -40,6 +40,9 @@ The users of this website will be able to find all relevant information about th
    - [**About join the family section**](#about-join-the-family)
 5. [**Testing phase**](#testing-phase)
 6. [**Deployment**](#deployment)
+7. [**Credits**](#credits)
+   - [**_Honorable mentions_**](#honorable-mentions)
+   - [**_General reference_**](#general-reference)
 
 ## Planning stage <a name="planning-stage"></a>
 
@@ -259,3 +262,35 @@ I deployed the site on GitGub using the following procedure:
 4. After a few minutes the page was deployed.
 
 Link to the [live site](https://ilyasolgun11.github.io/paws-play-pp1/index.html).
+
+## Credits <a name="credits"></a>
+
+### Honorable mentions: <a name="honorable-mentions"></a>
+
+This project could not have happened without the support of the following people listed in no particular order:
+
+- David Bowers - My mentor David has been amazing with guiding me on how i can make an amazing project, if i get a distinction it is because of him.
+- Patrick Hladun - Tester and advisor, give me some amazing tips on how i can improve my site.
+- Benjamin Schäfer - Tester and advisor, also gave me som amazing tips and pointed out bugs that i would'nt have seen otherwise.
+
+### General reference: <a name="general-reference"></a>
+
+The only piece of code i was inspired by and modified was the navigation toggle functionality from the love running project.
+
+### Content: <a name="content"></a>
+
+- All contents for this project has been inspired by Chat.GPT, and modified for this project by me.
+- All icons used was from [Font Awesome](https://fontawesome.com/)
+- Fonts were imported from [Google fonts](https://fonts.google.com/)
+
+### Media <a name="media"></a>
+
+- Site:
+  - Illustrations were taken from [Icons8](https://icons8.com/illustrations)
+  - Eligibility form explainer video from [Fiverr](https://www.fiverr.com/)
+  - Google maps API by [Google](https://developers.google.com/maps/documentation/javascript/get-api-key)
+- README:
+  - Color grid contrast tool - [Eightshapes](https://contrast-grid.eightshapes.com/?version=1.1.0&background-colors=&foreground-colors=%23FFFFFF%2C%20White%0D%0A%23F2F2F2%0D%0A%23DDDDDD%0D%0A%23CCCCCC%0D%0A%23888888%0D%0A%23404040%2C%20Charcoal%0D%0A%23000000%2C%20Black%0D%0A%232F78C5%2C%20Effective%20on%20Extremes%0D%0A%230F60B6%2C%20Effective%20on%20Lights%0D%0A%23398EEA%2C%20Ineffective%0D%0A&es-color-form__tile-size=compact&es-color-form__show-contrast=aaa&es-color-form__show-contrast=aa&es-color-form__show-contrast=aa18&es-color-form__show-contrast=dnp)
+  - File compression tool - [Tinypng](https://tinypng.com/)
+  - File converter tool - [Pixelied](https://pixelied.com/convert/png-converter/png-to-webp)
+  - README structure - Inspired by David Bowers [project](https://github.com/dnlbowers/modern-buddhism/blob/main/README.md)
