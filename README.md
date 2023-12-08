@@ -43,6 +43,8 @@ The users of this website will be able to find all relevant information about th
 7. [**Credits**](#credits)
    - [**_Honorable mentions_**](#honorable-mentions)
    - [**_General reference_**](#general-reference)
+   - [**_Content_**](#content)
+   - [**_Media_**](#media)
 
 ## Planning stage <a name="planning-stage"></a>
 
