@@ -1849,6 +1849,7 @@ header {
   }
 
   .eligibility-content {
+    padding-left: 0px;
     align-items: center;
     order: 1;
     width: 100%;
