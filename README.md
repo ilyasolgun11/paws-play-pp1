@@ -78,7 +78,7 @@ The users of this website will be able to find all relevant information about th
 
   1. General details about their dog; their name, age, breed, weight, have they been neutered or spayed and is their any existing medical conditions?
   2. Vaccination details; Is your dog up-to-date on vaccinations and have they received recent treatment for ticks/fleas?
-  3. Behavior ddetails; how does your dog typically interact with other dogs and how does your dog typically interact with other people?
+  3. Behavior details; how does your dog typically interact with other dogs and how does your dog typically interact with other people?
   4. Socialization details; have they previously attended a daycare? and do they have knowledge of commands?
   5. Owner details; first name, last name, email and phone number
 
@@ -88,7 +88,14 @@ The users of this website will be able to find all relevant information about th
 
 - The footer provides the user with social links so they can get to know us more
 
-- The footer also provides the user with an optional newsletter sign up so they can recieve information on possible parties and discounts
+- The footer also provides the user with an optional newsletter sign up so they can receive information on possible parties and discounts
+
+### Wireframes:
+
+To organize my thoughts i created wireframes for this project. Below are links to each of the mobile and desktop versions of my site.
+
+- Desktop wireframes:
+  - [Home page](assets/images/readme/wireframes/paws-play-homepage.png)
 
 ## Color Scheme: <a name="color-scheme"></a>
 
