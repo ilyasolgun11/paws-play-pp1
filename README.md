@@ -15,6 +15,7 @@ The users of this website will be able to find all relevant information about th
    - [**_Target audience_**](#target-audience)
    - [**_User stories_**](#user-stories)
    - [**_How I will achieve this:_**](#how-i-will-achieve-this)
+     - [**_Wireframes_**](#wireframes)
    - [**_Color scheme_**](#color-scheme)
 3. [**Elements used on all pages**](#elements-used-on-all-pages)
    - [**Header element**](#header-element)
@@ -90,7 +91,7 @@ The users of this website will be able to find all relevant information about th
 
 - The footer also provides the user with an optional newsletter sign up so they can receive information on possible parties and discounts
 
-### Wireframes:
+### Wireframes: <a name="wireframes"></a>
 
 To organize my thoughts i created wireframes for this project. Below are links to each of the mobile and desktop versions of my site.
 
@@ -98,6 +99,7 @@ To organize my thoughts i created wireframes for this project. Below are links t
   - [Home page](assets/images/readme/wireframes/paws-play-homepage.png)
   - [About page](assets/images/readme/wireframes/paws-play-about-page.png)
   - [Eligibility page](assets/images/readme/wireframes/paws-play-eligibility-page.png)
+  - [Eligibility submission page](assets/images/readme/wireframes/paws-play-eligibility-submission.png)
 
 ## Color Scheme: <a name="color-scheme"></a>
 
