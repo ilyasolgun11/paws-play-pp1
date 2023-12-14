@@ -103,6 +103,7 @@ To organize my thoughts i created wireframes for this project. Below are links t
   - [Newsletter page](assets/images/readme/wireframes/paws-play-newsletter-page.png)
 - Mobile wireframes:
   - [Home page](assets/images/readme/wireframes/paws-play-mobile-homepage.png)
+  - [About page](assets/images/readme/wireframes/paws-play-mobile-aboutpage.png)
 
 ## Color Scheme: <a name="color-scheme"></a>
 
