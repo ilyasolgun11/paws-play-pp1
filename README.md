@@ -101,6 +101,8 @@ To organize my thoughts i created wireframes for this project. Below are links t
   - [Eligibility page](assets/images/readme/wireframes/paws-play-eligibility-page.png)
   - [Eligibility submission page](assets/images/readme/wireframes/paws-play-eligibility-submission.png)
   - [Newsletter page](assets/images/readme/wireframes/paws-play-newsletter-page.png)
+- Mobile wireframes:
+  - [Home page](assets/images/readme/wireframes/paws-play-mobile-homepage.png)
 
 ## Color Scheme: <a name="color-scheme"></a>
 
