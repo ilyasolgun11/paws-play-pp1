@@ -289,6 +289,7 @@ This project could not have happened without the support of the following people
 - David Bowers - My mentor David has been amazing with guiding me on how i can make an amazing project, if i get a distinction it is because of him.
 - Patrick Hladun - Tester and advisor, give me some amazing tips on how i can improve my site.
 - Benjamin Schäfer - Tester and advisor, also gave me som amazing tips and pointed out bugs that i would'nt have seen otherwise.
+- Ayisha Sandiford - Tester and advisor, pointed out some bugs i did not notice, really helpful!
 
 ### General reference: <a name="general-reference"></a>
 
