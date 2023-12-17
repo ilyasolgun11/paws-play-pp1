@@ -2,8 +2,8 @@
 
 ## Site Overview <a name="site-overview"></a>
 
-The Paw's Play website is a service for people who want a trusted day care for their dogs, with eligibility criteria that seperates it from the competition by only housing dogs that wont endanger dogs under its care.
-The users of this website will be able to find all relevant information about the day care; for example an elgibility form, contact information and about paw's play.
+The Paw's Play website is a service for people who want a trusted day care for their dogs, with eligibility criteria that separates it from the competition by only housing dogs that wont endanger dogs under its care.
+The users of this website will be able to find all relevant information about the day care; for example an eligibility form, contact information and about paw's play.
 
 ![Responsive Site](assets/images/readme/responsive-site.png)
 
@@ -139,7 +139,7 @@ The header element is stuck to the top of the page, Although it was a challengin
 
 - The navigation appears on all pages.
 - It contains links to home, about and eligibility.
-- When the user is on a specifiv page, the link corrosponding to their page will have the class "active" and "bg-active", the "active" class applies to the links appearing on screen sizes larger than 786px and applies color and font-weight to the links, the "bg-active" class applies to the links on screen sizes smaller than 786px and applies a background colour to the links.
+- When the user is on a specific page, the link corresponding to their page will have the class "active" and "bg-active", the "active" class applies to the links appearing on screen sizes larger than 786px and applies color and font-weight to the links, the "bg-active" class applies to the links on screen sizes smaller than 786px and applies a background color to the links.
 
 ## Footer Element <a name="footer-element"></a>
 
@@ -158,7 +158,7 @@ The footer element is at the very bottom of every page, it includes the followin
 
 - The socials section in the footer has a header stating its the socials section.
 - The socials section contains 4 links that would take the user to it's 4 different accounts on various social media platforms.
-- The platforms being Instagram, Youtube, Twitter and Facebook (Paw's Play doesnt actually have accounts with these platforms these are just for proof of concept)
+- The platforms being Instagram, Youtube, Twitter and Facebook (Paw's Play doesn't actually have accounts with these platforms these are just for proof of concept)
 
 ### Newsletter: <a name="newsletter"></a>
 
@@ -198,7 +198,7 @@ The footer element is at the very bottom of every page, it includes the followin
 - This section states how important the eligibility section is to Paw's Play as it is how they ensure that the day care is a safe and enjoyable environment for all dogs.
 - This section also displays a joyful illustration of a women sitting with a dog, once again setting a fun and enjoyable experience.
 
-![Homne eligibility](assets/images/readme/home-eligibility-readme.png)
+![Home eligibility](assets/images/readme/home-eligibility-readme.png)
 
 ### Home What We Do Best Section Content: <a name="home-what-we-do-best"></a>
 
@@ -233,7 +233,7 @@ The footer element is at the very bottom of every page, it includes the followin
 
 ### Eligibility Form Section Content: <a name="eligibility-form"></a>
 
-- This section displays a form with 5 field-sets for the user to fill in; the legends are General Details, Vaccinations, Behavior, Socialization and Owner Detials.
+- This section displays a form with 5 field-sets for the user to fill in; the legends are General Details, Vaccinations, Behavior, Socialization and Owner Details.
 - The inputs with type="text" has label's that is only visible to screen readers for ascetic's reasons.
 - Once the user fill's out all required fields and clicks submit they will be navigates to the eligibility-submission.html page.
 
