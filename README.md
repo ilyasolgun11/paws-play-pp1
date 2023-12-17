@@ -105,10 +105,12 @@ To organize my thoughts i created wireframes for this project. Below are links t
   - [Home page](assets/images/readme/wireframes/paws-play-mobile-homepage.png)
   - [About page](assets/images/readme/wireframes/paws-play-mobile-aboutpage.png)
   - [Eligibility page](assets/images/readme/wireframes/paws-play-mobile-eligibility-page.png)
+  - [Eligibility submission page](assets/images/readme/wireframes/paws-play-mobile-eligibility-submission-page.png)
+  - [Newsletter page](assets/images/readme/wireframes/paws-play-mobile-newsletter-submission-page.png)
 
 ## Color Scheme: <a name="color-scheme"></a>
 
-When deciding a color scheme, i decided i should go with colours matching with the illustrations i got from [icons8](https://icons8.com/illustrations/animal/dog/technique--3d) i selected a pink-ish colour to compliment the illustration perfectly and used the color [grader site](https://contrast-grid.eightshapes.com/?version=1.1.0&background-colors=&foreground-colors=%23FFFFF%2C%20%0D%0A%23d298aa%0D%0A%23d56589%2C%0D%0A%23a7244e%2C%20%0D%0A%23131313%2C%20%0D%0A%2300000%0D%0A&es-color-form__tile-size=compact&es-color-form__show-contrast=aaa&es-color-form__show-contrast=aa&es-color-form__show-contrast=aa18&es-color-form__show-contrast=dnp) to check the contrast scores, using the grid showed me which background colors match with which text color so the site is accessible to everyone.
+When deciding a color scheme, i decided i should go with colors matching with the illustrations i got from [icons8](https://icons8.com/illustrations/animal/dog/technique--3d) i selected a pink-ish color to compliment the illustration perfectly and used the color [grader site](https://contrast-grid.eightshapes.com/?version=1.1.0&background-colors=&foreground-colors=%23FFFFF%2C%20%0D%0A%23d298aa%0D%0A%23d56589%2C%0D%0A%23a7244e%2C%20%0D%0A%23131313%2C%20%0D%0A%2300000%0D%0A&es-color-form__tile-size=compact&es-color-form__show-contrast=aaa&es-color-form__show-contrast=aa&es-color-form__show-contrast=aa18&es-color-form__show-contrast=dnp) to check the contrast scores, using the grid showed me which background colors match with which text color so the site is accessible to everyone.
 
 ![Color grader result](assets/images/readme/color-grader.png);
 
@@ -116,7 +118,7 @@ When deciding a color scheme, i decided i should go with colours matching with t
 
 ## Header Element <a name="header-element"></a>
 
-The header element is stuck to the top of the page, Although it was a challanging task at the beggining of the project because of the max-width applied it was not able to align it to the middle, but now the issue is fixed. The header contains the following features:
+The header element is stuck to the top of the page, Although it was a challenging task at the beginning of the project because of the max-width applied it was not able to align it to the middle, but now the issue is fixed. The header contains the following features:
 
 ### Logo: <a name="logo"></a>
 
