@@ -2213,6 +2213,9 @@ header {
     height: 350px;
     width: 350px;
   }
+  #our-trainers h2 {
+    font-size: 2.1rem;
+  }
 }
 
 /* Screen sizes smaller than 600px */
