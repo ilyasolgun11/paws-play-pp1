@@ -113,7 +113,7 @@ _CSS_ - [https://jigsaw.w3.org/css-validator/](https://jigsaw.w3.org/css-validat
 
 2. _eligibility.html:_
 
-![eligibility.html mobile](assets/images/testing/eligibility-html-mobile.png)
+![eligibility.html mobile](assets/images/testing/eligibility-submission-mobile.png)
 
 3. _about.html:_
 
