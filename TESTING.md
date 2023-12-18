@@ -117,8 +117,6 @@ _CSS_ - [https://jigsaw.w3.org/css-validator/](https://jigsaw.w3.org/css-validat
 
 3. _about.html:_
 
-- For the mobile version i have the same issue as the index.html but there is more photos in this file so the score is around 81-85.
-
 ![about.html mobile](assets/images/testing/about.html-mobile.png)
 
 4. _eligibility-submission.html:_
