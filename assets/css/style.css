@@ -38,6 +38,10 @@ fieldset {
   border: none;
 }
 
+legend {
+  display: contents;
+}
+
 .hidden-heading {
   display: none;
 }
@@ -458,6 +462,7 @@ header {
 .socialization-second {
   margin-top: 10px;
   display: flex;
+  align-items: center;
   justify-content: space-between;
   gap: 0.1rem;
 }
@@ -539,8 +544,7 @@ header {
 .vaccinations-second-header-container,
 .behavior-first-header-container {
   padding-left: 5px;
-  display: flex;
-  align-items: center;
+  vertical-align: baseline;
 }
 
 .behavior-first-header-container,
@@ -548,18 +552,19 @@ header {
   width: 50%;
 }
 
-.general-details-third-header-container p,
-.general-details-fourth-header-container p,
-.vaccinations-first-header-container p,
-.vaccinations-second-header-container p,
-.behavior-first-header-container p,
-.behavior-second-header-container p,
-.socialization-first-header-container p,
-.socialization-second-header-container p {
+.general-details-third-header-container legend,
+.general-details-fourth-header-container legend,
+.vaccinations-first-header-container legend,
+.vaccinations-second-header-container legend,
+.behavior-first-header-container legend,
+.behavior-second-header-container legend,
+.socialization-first-header-container legend,
+.socialization-second-header-container legend {
   color: #131313;
   margin-left: 3px;
   font-weight: 500;
   font-size: 1rem;
+  vertical-align: baseline;
 }
 
 .socialization-first-header-container h3,

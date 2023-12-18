@@ -70,6 +70,7 @@ During development i tested my project in various ways such as:
 _HTML_ - [https://validator.w3.org/nu/](https://validator.w3.org/nu/) <a name="HTML"></a>
 
 - All pages tested, no issue found.
+- The validator does not like the fact that i have "/" at the end of my elements, but because of my prettier extension it adds them back when i remove it.
 
 _CSS_ - [https://jigsaw.w3.org/css-validator/](https://jigsaw.w3.org/css-validator/) <a name="CSS"></a>
 
