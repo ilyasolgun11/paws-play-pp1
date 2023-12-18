@@ -336,9 +336,9 @@ header {
 
 .eligibility-page-hero-second h2 {
   position: relative;
-  color: #131313;
-  font-size: 4.1rem;
-  margin-bottom: 40px;
+  color: #a7244e;
+  font-size: 3.5rem;
+  margin-bottom: 10px;
 }
 
 .eligibility-page-underline {
@@ -1898,10 +1898,9 @@ header {
 
   .eligibility-page-hero-second h2 {
     margin-top: -50px;
-    position: relative;
-    color: #131313;
-    font-size: 3.1rem;
-    margin-bottom: 40px;
+    color: #a7244e;
+    font-size: 2.7rem;
+    margin-bottom: 10px;
   }
 
   .eligibility-page-underline {
