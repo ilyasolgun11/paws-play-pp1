@@ -178,8 +178,9 @@ header {
 .hero-img-container {
   background: url("../images/casual-life-3d-young-woman-sitting-on-ground-and-petting-dog.webp")
     center/contain no-repeat;
+  border-radius: 20px;
   display: flex;
-  justify-content: center;
+  justify-content: flex-start;
   align-items: center;
   width: 100%;
   height: 400px;
@@ -261,6 +262,7 @@ header {
 }
 
 .eligibility-content {
+  width: 100%;
   padding-left: 20px;
   display: flex;
   justify-content: center;
@@ -297,8 +299,10 @@ header {
 }
 
 .eligibility-img-container {
-  width: 50%;
-  height: 100%;
+  background: url(../images/casual-life-3d-woman-taking-funny-photo-with-dog.webp)
+    center/contain no-repeat;
+  width: 100%;
+  height: 400px;
 }
 
 .eligibility-img {
@@ -1841,7 +1845,8 @@ header {
   }
 
   .eligibility-img-container {
-    width: 100%;
+    width: 400px;
+    height: 400px;
     order: 0;
   }
 
