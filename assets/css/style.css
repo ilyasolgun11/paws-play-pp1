@@ -1807,6 +1807,11 @@ header {
     padding-top: 140px;
   }
 
+  .hero-img-container {
+    width: 300px;
+    height: 300px;
+  }
+
   .hero-content {
     align-items: center;
   }
