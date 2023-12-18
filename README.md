@@ -39,9 +39,10 @@ The users of this website will be able to find all relevant information about th
    - [**About our mission section**](#about-our-mission)
    - [**About our trainers section**](#about-our-trainers)
    - [**About join the family section**](#about-join-the-family)
-5. [**Testing phase**](#testing-phase)
-6. [**Deployment**](#deployment)
-7. [**Credits**](#credits)
+5. [**Future enhancements**](#future-enhancements)
+6. [**Testing phase**](#testing-phase)
+7. [**Deployment**](#deployment)
+8. [**Credits**](#credits)
    - [**_Honorable mentions_**](#honorable-mentions)
    - [**_General reference_**](#general-reference)
    - [**_Content_**](#content)
@@ -179,7 +180,7 @@ The footer element is at the very bottom of every page, it includes the followin
 
 - The Paw's Play site uses the font Poppins.
 - Also sans-serif for a back-up font.
-- The Poppins font was used because of how beautiful it is.
+- The Poppins font was used because of it compliments the sites overall look, furthermore it adds a modern feel which is industry standard in today's day and age.
 
 ## Individual page elements <a name="individual-page-elements"></a>
 
@@ -267,6 +268,13 @@ The footer element is at the very bottom of every page, it includes the followin
 - This section also has a paragraph that conveys the message from the header and also has a call to action to navigate the user to the eligibility page.
 
 ![About join the family](assets/images//readme/join-the-family-readme.png)
+
+## Future-Enhancements <a name="future-enhancements"></a>
+
+- The future intentions of this website will be a landing page for anyone looking for a dog day-care in the north london area.
+- The functionalities i want to add in the future is a database where the users eligibility submissions could go to, with the data Paw's Play obtains we can easily know everything that we need to know in order to follow up with customers that are interested in our services.
+- Once i learn JavaScript i would love to add a sign up page where users can join the Paw's Play community.
+- I would also love to make a Paw's Play app where owners can see their dog's day to day achievements regarding new tricks and new commands they have learned; Also a section where they can see a live broadcast of the main hall where the dogs are kept so they can see what their pooch is doing whenever they want.
 
 ## Testing Phase <a name="testing-phase"></a>
 
