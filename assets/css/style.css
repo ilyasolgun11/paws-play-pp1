@@ -931,6 +931,7 @@ header {
     center/contain no-repeat;
   width: 100%;
   height: 500px;
+  display: flex;
 }
 
 .founders-info-first h2 {
@@ -2193,7 +2194,7 @@ header {
   }
 
   .founders-info-img-container {
-    width: 350px;
+    width: 100%;
     height: 350px;
   }
 
