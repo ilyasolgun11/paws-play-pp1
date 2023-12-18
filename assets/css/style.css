@@ -192,11 +192,6 @@ header {
   align-items: flex-end;
 }
 
-.hero-content h2 {
-  font-size: 2.5rem;
-  margin-bottom: 0px;
-}
-
 .hero-content h2,
 .hero-content p {
   max-width: 600px;
@@ -204,17 +199,10 @@ header {
 }
 
 .hero-content h2 {
+  color: #a7244e;
   margin-top: 0;
-  margin-bottom: 60px;
+  margin-bottom: 15px;
   font-size: 2.5rem;
-  position: relative;
-}
-
-.hero-underline {
-  position: absolute;
-  width: 270px;
-  bottom: -40px;
-  right: 22px;
 }
 
 .hero-content p {
@@ -276,6 +264,7 @@ header {
 }
 
 .eligibility-content h2 {
+  color: #a7244e;
   font-size: 2.3rem;
   margin-bottom: 17px;
 }
@@ -811,7 +800,7 @@ header {
 
 /* What we do */
 .what-we-do-header {
-  font-size: 4rem;
+  font-size: 3.3rem;
   text-align: center;
   font-style: italic;
   color: #a7244e;
@@ -1306,10 +1295,6 @@ header {
   .hero-content h2 {
     font-size: 1.7rem;
   }
-  .hero-underline {
-    width: 230px;
-    left: 40px;
-  }
 
   /* Main Section */
   /* Eligibility */
@@ -1325,7 +1310,7 @@ header {
 
   /* What we do */
   #what-we-do {
-    margin-top: 140px;
+    margin-top: 60px;
   }
 
   .what-we-do-first-half {
@@ -1807,6 +1792,7 @@ header {
     flex-direction: column;
     padding: 0 20px;
     padding-top: 140px;
+    margin-bottom: 40px;
   }
 
   .hero-img-container {
@@ -2219,14 +2205,8 @@ header {
   .hero-content h1 {
     font-size: 1.5rem;
   }
-  .hero-underline {
-    width: 210px;
-    right: 85px;
-    bottom: -30px;
-  }
   .hero-content h2 {
-    font-size: 1.6rem;
-    margin-bottom: 40px;
+    font-size: 1.7rem;
   }
 
   /* Main Section */
