@@ -327,7 +327,7 @@ header {
   height: 100%;
   display: flex;
   justify-content: center;
-  align-items: center;
+  align-items: flex-end;
   flex-direction: column;
 }
 
@@ -339,6 +339,7 @@ header {
 }
 
 .eligibility-page-hero-second h2 {
+  text-align: end;
   position: relative;
   color: #a7244e;
   font-size: 3.5rem;
@@ -353,8 +354,8 @@ header {
 }
 
 .eligibility-page-hero-second p {
-  text-align: center;
-  max-width: 500px;
+  text-align: end;
+  max-width: 700px;
 }
 
 .eligibility-page-hero-second button {
@@ -381,7 +382,7 @@ header {
 }
 
 .explainer-video-p {
-  margin-top: 100px;
+  margin-top: 0px;
   font-size: 1.2rem;
   color: #131313;
   margin-bottom: 10px;
@@ -394,7 +395,7 @@ header {
 /* Eligibility page main - form section  */
 
 #eligibility-page-form {
-  margin-top: 130px;
+  margin-top: 30px;
   margin-bottom: 390px;
   padding: 0;
   width: 100%;
@@ -1315,6 +1316,10 @@ header {
     justify-content: center;
   }
 
+  #eligibility h2 {
+    font-size: 2rem;
+  }
+
   .eligibility-img {
     width: 300px;
     margin-left: 0;
@@ -1918,6 +1923,7 @@ header {
 
   .eligibility-page-hero-second p {
     padding: 0 20px;
+    text-align: center;
   }
 
   /* Eligibility page main - video section  */
@@ -1930,7 +1936,7 @@ header {
 
   .explainer-video-p {
     font-size: 1rem;
-    padding-top: 100px;
+    padding-top: 50px;
   }
 
   /* Eligibility page main - form section  */
@@ -2239,6 +2245,12 @@ header {
     margin-top: 0px;
     margin-bottom: 0px;
     flex-direction: column;
+  }
+
+  .behavior-first-header,
+  .behavior-second-header {
+    font-size: 0.9rem;
+    text-align: center;
   }
 
   /* What we do  */
