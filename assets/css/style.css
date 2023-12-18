@@ -194,7 +194,7 @@ header {
 
 .hero-content h2,
 .hero-content p {
-  max-width: 600px;
+  max-width: 900px;
   text-align: end;
 }
 
@@ -259,7 +259,7 @@ header {
 .eligibility-content h2,
 .eligibility-content p {
   text-align: start;
-  max-width: 500px;
+  max-width: 700px;
   margin-bottom: 15px;
 }
 
