@@ -927,6 +927,10 @@ header {
 
 .founders-info-img-container {
   position: relative;
+  background: url("../images/young-women-sitting-next-to-young-man.webp")
+    center/contain no-repeat;
+  width: 100%;
+  height: 500px;
 }
 
 .founders-info-first h2 {
@@ -941,26 +945,26 @@ header {
   font-weight: 500;
 }
 
-.founders-info-img {
-  min-width: 350px;
-  max-width: 600px;
-  min-height: 350px;
-  object-fit: contain;
-}
-
 /* Our Mission Section  */
 #our-mission {
-  margin-top: 100px;
+  margin-top: 40px;
   display: flex;
   justify-content: space-between;
   align-items: center;
 }
 
 .our-mission-first {
-  width: 100%;
-  height: 100%;
+  margin-top: 50px;
+  background: url("../images/young-founders-grace-shelby-and-tommy-shelby-sticking-sticky-notes-on-wall.webp")
+    center/contain no-repeat;
+  width: 40%;
+  height: 500px;
   display: flex;
-  justify-content: center;
+  justify-content: flex-start;
+}
+
+.our-mission-second {
+  width: 100%;
 }
 
 .our-mission-img {
@@ -983,21 +987,21 @@ header {
 
 /* Our Trainers section  */
 #our-trainers {
-  margin-top: 200px;
+  margin-top: 120px;
 }
 
 #our-trainers h2 {
-  font-size: 4rem;
+  font-size: 3.5rem;
   text-align: center;
   color: #a7244e;
-  margin-bottom: 80px;
+  margin-bottom: 40px;
   font-style: italic;
 }
 
 .our-trainers-first,
 .our-trainers-second,
 .our-trainers-third {
-  margin-top: 100px;
+  margin-top: 50px;
   display: flex;
   justify-content: center;
   align-content: center;
@@ -1104,17 +1108,19 @@ header {
 
 /* Join the Family */
 #join-the-family {
-  margin-top: 120px;
+  margin-top: 50px;
   display: flex;
   justify-content: space-between;
   align-items: center;
 }
 
 .join-the-family-second {
+  background: url("../images/female-veternatian-with-dog.webp") center/contain
+    no-repeat;
   display: flex;
-  justify-content: center;
+  justify-content: flex-end;
   width: 60%;
-  height: 60%;
+  height: 500px;
 }
 
 .join-the-family-first h2 {
@@ -1492,6 +1498,7 @@ header {
 
   /* About Page Styles  */
   /* Founders Info Section */
+
   #founders-info {
     flex-direction: column;
   }
@@ -1513,13 +1520,6 @@ header {
 
   .founders-info-first p {
     text-align: center;
-  }
-
-  .founders-info-img {
-    margin-bottom: 30px;
-    width: 100%;
-    height: 100%;
-    object-fit: contain;
   }
 
   /* Our Mission Section  */
@@ -1633,10 +1633,9 @@ header {
   }
 
   .join-the-family-second {
-    margin-top: 100px;
     order: 0;
     width: 100%;
-    height: 100%;
+    height: 400px;
   }
 
   .join-the-family-first h2 {
@@ -2194,8 +2193,25 @@ header {
     margin-top: 100px;
   }
 
+  .founders-info-img-container {
+    width: 350px;
+    height: 350px;
+  }
+
   .founders-info-first h2 {
     font-size: 2.8rem;
+  }
+
+  /* Our mission section*/
+  .our-mission-first {
+    width: 350px;
+    height: 350px;
+  }
+
+  /* Join the family section*/
+  .join-the-family-second {
+    height: 350px;
+    width: 350px;
   }
 }
 
