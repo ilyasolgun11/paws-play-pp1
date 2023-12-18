@@ -1834,8 +1834,8 @@ header {
   }
   .hero-img {
     margin-left: 60px;
-    height: 100%;
-    width: 350px;
+    height: 270px;
+    width: 270px;
     object-fit: contain;
   }
 
