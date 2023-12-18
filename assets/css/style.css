@@ -167,6 +167,7 @@ header {
   padding-top: 140px;
   max-width: 1400px;
   margin: 0 auto;
+  margin-bottom: 100px;
   display: flex;
   justify-content: space-between;
   align-items: center;
@@ -179,7 +180,7 @@ header {
   display: flex;
   justify-content: flex-start;
   align-items: center;
-  width: 100%;
+  width: 70%;
   height: 400px;
 }
 
@@ -298,7 +299,7 @@ header {
 .eligibility-img-container {
   background: url(../images/casual-life-3d-woman-taking-funny-photo-with-dog.webp)
     center/contain no-repeat;
-  width: 100%;
+  width: 60%;
   height: 400px;
 }
 
@@ -1313,7 +1314,6 @@ header {
   /* Eligibility */
   .eligibility-img-container {
     display: flex;
-    width: 100%;
     justify-content: center;
   }
 
@@ -1809,8 +1809,8 @@ header {
   }
 
   .hero-img-container {
-    width: 300px;
-    height: 300px;
+    width: 350px;
+    height: 350px;
   }
 
   .hero-content {
@@ -1842,8 +1842,8 @@ header {
   }
 
   .eligibility-img-container {
-    width: 400px;
-    height: 400px;
+    width: 350px;
+    height: 350px;
     order: 0;
   }
 
