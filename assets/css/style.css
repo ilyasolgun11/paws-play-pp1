@@ -1829,8 +1829,8 @@ header {
   /* Eligibility */
 
   #eligibility {
-    margin-top: 300px;
-    margin-bottom: 400px;
+    margin-top: 100px;
+    margin-bottom: 50px;
     flex-direction: column;
   }
 
@@ -2236,8 +2236,8 @@ header {
   /* Main Section */
   /* Eligibility */
   #eligibility {
-    margin-top: 90px;
-    margin-bottom: 100px;
+    margin-top: 0px;
+    margin-bottom: 0px;
     flex-direction: column;
   }
 
