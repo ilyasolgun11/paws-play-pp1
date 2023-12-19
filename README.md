@@ -314,7 +314,7 @@ The only piece of code I was inspired by and modified was the navigation toggle 
 
 - Site:
   - Illustrations were taken from [Icons8](https://icons8.com/illustrations)
-  - Eligibility form explainer video from [Fiverr](https://www.fiverr.com/)
+  - Eligibility form explainer video from [Fiverr](https://www.fiverr.com/) and it has been paid for and created by [Jump and Team](https://www.fiverr.com/jump_explainer/create-2d-animated-explainer-video-for-your-business?source=order_page_summary_gig_link_image&funnel=f84e587059164b9f98b4012a1686ac48)
   - Google Maps API by [Google](https://developers.google.com/maps/documentation/javascript/get-api-key)
 - README:
   - Color grid contrast tool - [Eightshapes](https://contrast-grid.eightshapes.com/?version=1.1.0&background-colors=&foreground-colors=%23FFFFFF%2C%20White%0D%0A%23F2F2F2%0D%0A%23DDDDDD%0D%0A%23CCCCCC%0D%0A%23888888%0D%0A%23404040%2C%20Charcoal%0D%0A%23000000%2C%20Black%0D%0A%232F78C5%2C%20Effective%20on%20Extremes%0D%0A%230F60B6%2C%20Effective%20on%20Lights%0D%0A%23398EEA%2C%20Ineffective%0D%0A&es-color-form__tile-size=compact&es-color-form__show-contrast=aaa&es-color-form__show-contrast=aa&es-color-form__show-contrast=aa18&es-color-form__show-contrast=dnp)
