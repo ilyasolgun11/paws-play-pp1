@@ -1684,11 +1684,14 @@ header {
   }
 
   .nav-toggle-label {
-    margin-bottom: 0;
+    margin-top: 9px;
+    margin-bottom: 0px;
     font-size: 1.3rem;
     color: #131313;
     visibility: visible;
     cursor: pointer;
+    display: inline-block;
+    position: relative;
   }
 
   .nav-links {
@@ -1785,6 +1788,34 @@ header {
     display: block;
     background-color: white;
     z-index: 20;
+  }
+
+  .nav-toggle-label .fa-bars {
+    transition: opacity 0.3s ease, transform 0.3s ease;
+    position: absolute;
+    top: 0;
+    right: 0;
+  }
+
+  .nav-toggle-label .fa-times {
+    color: #a7244e;
+    font-size: 1.8rem;
+    position: absolute;
+    transition: opacity 0.3s ease, transform 0.3s ease;
+    top: -4px;
+    right: -2px;
+  }
+
+  #nav-toggle:checked + .nav-toggle-label .fa-bars {
+    opacity: 0;
+  }
+
+  #nav-toggle:checked + .nav-toggle-label .fa-times {
+    opacity: 1;
+  }
+
+  #nav-toggle + .nav-toggle-label .fa-times {
+    opacity: 0;
   }
 
   /* Header Styles */
