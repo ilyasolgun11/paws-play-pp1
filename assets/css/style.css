@@ -310,7 +310,8 @@ header {
 /* Eligibility page styles  */
 /* Eligibility Header */
 .eligibility-page-header {
-  padding-top: 120px;
+  padding-top: 70px;
+  margin-bottom: 40px;
   display: flex;
   justify-content: space-between;
   align-items: center;
@@ -1805,7 +1806,7 @@ header {
   #hero-section {
     flex-direction: column;
     padding: 0 20px;
-    padding-top: 140px;
+    padding-top: 60px;
     margin-bottom: 40px;
   }
 
@@ -2228,6 +2229,11 @@ header {
     height: 350px;
     width: 350px;
   }
+
+  .join-the-family-first p {
+    margin-bottom: 0px;
+  }
+
   #our-trainers h2 {
     font-size: 2.1rem;
   }
