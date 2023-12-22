@@ -117,6 +117,8 @@ _CSS_ - [https://jigsaw.w3.org/css-validator/](https://jigsaw.w3.org/css-validat
 
 3. _about.html:_
 
+- The performance score for the about page mobile light-score fluctuates between 90 and 93 due to the font-awesome CDN link and the google fonts import.
+
 ![about.html mobile](assets/images/testing/about.html-mobile.png)
 
 4. _eligibility-submission.html:_
