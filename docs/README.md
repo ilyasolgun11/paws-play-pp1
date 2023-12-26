@@ -118,7 +118,7 @@ To organize my thoughts I created wireframes for this project. Below are links t
 
 When deciding on the color scheme, I decided I should go with colors matching the illustrations I got from [icons8](https://icons8.com/illustrations/animal/dog/technique--3d) i selected a pink-ish color to compliment the illustration perfectly and used the color [grader site](https://contrast-grid.eightshapes.com/?version=1.1.0&background-colors=&foreground-colors=%23FFFFF%2C%20%0D%0A%23d298aa%0D%0A%23d56589%2C%0D%0A%23a7244e%2C%20%0D%0A%23131313%2C%20%0D%0A%2300000%0D%0A&es-color-form__tile-size=compact&es-color-form__show-contrast=aaa&es-color-form__show-contrast=aa&es-color-form__show-contrast=aa18&es-color-form__show-contrast=dnp) to check the contrast scores, using the grid showed me which background colors match with which text color so the site is accessible to everyone.
 
-![Color grader result](assets/images/readme/color-grader.png);
+![Color grader result](../docs/readme/color-grader.png);
 
 ## Elements used on all pages <a name="elements-used-on-all-pages"></a>
 
@@ -128,7 +128,7 @@ The header element is stuck to the top of the page, Although it was a challengin
 
 ### Logo: <a name="logo"></a>
 
-![logo](assets/images/readme/logo-for-readme.png)
+![logo](../docs/readme/logo-for-readme.png)
 
 - The logo text is related to dogs with "Paws" and also being a playful and enjoyable place for dogs with "Play"
 - It is also a link to the homepage
@@ -137,11 +137,11 @@ The header element is stuck to the top of the page, Although it was a challengin
 
 ##### Navigation for screen sizes larger than 786px:
 
-![navigation](assets/images/readme/navigation-readme-large.png)
+![navigation](../docs/readme/navigation-readme-large.png)
 
 ##### Navigation for screen sizes smaller than 786px:
 
-![navigation small](assets/images/readme/navigation-readme-small.png)
+![navigation small](../docs/readme/navigation-readme-small.png)
 
 - The navigation appears on all pages.
 - It contains links to home, about and eligibility.
@@ -153,14 +153,14 @@ The footer element is at the very bottom of every page, it includes the followin
 
 ### Contact us: <a name="contact-us"></a>
 
-![contact us](assets/images/readme/contact-us-readme.png)
+![contact us](../docs/readme/contact-us-readme.png)
 
 - The Contact Us section in the footer has a header stating it's the Contact Us section.
 - The Contact Us section contains 3 ways of contacting us; the first is the support phone number, the second is the location of the dog daycare for in-person support and the third is the support email.
 
 ### Socials: <a name="socials"></a>
 
-![socials](assets/images/readme/socials-readme.png)
+![socials](../docs/readme/socials-readme.png)
 
 - The socials section in the footer has a header stating it's the socials section.
 - The socials section contains 4 links that would take the user to its 4 different accounts on various social media platforms.
@@ -168,7 +168,7 @@ The footer element is at the very bottom of every page, it includes the followin
 
 ### Newsletter: <a name="newsletter"></a>
 
-![newsletter](assets/images/readme/newsletter-readme.png)
+![newsletter](../docs/readme/newsletter-readme.png)
 
 - The newsletter section in the footer has a header stating it is the newsletter section.
 - The newsletter section contains an input form with a button for sign-up.
@@ -176,7 +176,7 @@ The footer element is at the very bottom of every page, it includes the followin
 
 ### Copyright: <a name="copyright"></a>
 
-![Copyright](assets/images/readme/copyright-readme.png)
+![Copyright](../docs/readme/copyright-readme.png)
 
 - The copyright section in the footer has a copyright icon stating it is the copyright section.
 - The copyright section has a "2024" mark stating it is valid till 2024, this is just a dummy copyright for proof of concept.
@@ -196,7 +196,7 @@ The footer element is at the very bottom of every page, it includes the followin
 - This section contains a paragraph telling the user that it is dog daycare is like the dog version of a VIP stay.
 - This section also displays an illustration of a woman petting a dog, setting a joyful experience for the user.
 
-![Hero section](assets/images/readme/hero-section-readme.png)
+![Hero section](../docs/readme/hero-section-readme.png)
 
 ### Home Eligibility Section Content: <a name="home-eligibility"></a>
 
@@ -204,7 +204,7 @@ The footer element is at the very bottom of every page, it includes the followin
 - This section states how important the eligibility section is to Paw's Play as it is how they ensure that the daycare is a safe and enjoyable environment for all dogs.
 - This section also displays a joyful illustration of a woman sitting with a dog, once again setting a fun experience.
 
-![Home eligibility](assets/images/readme/home-eligibility-readme.png)
+![Home eligibility](../docs/readme/home-eligibility-readme.png)
 
 ### Home What We Do Best Section Content: <a name="home-what-we-do-best"></a>
 
@@ -212,14 +212,14 @@ The footer element is at the very bottom of every page, it includes the followin
 - The paragraphs in each key point section describe the service provided in detail.
 - In every key point section, check icons show the guaranteed service from each key point.
 
-![Home what we do best](assets/images/readme/home-what-we-do-best-readme.png)
+![Home what we do best](../docs/readme/home-what-we-do-best-readme.png)
 
 ### Home Location Section Content: <a name="home-location"></a>
 
 - This section shows the user the company location with a Google Maps location pin.
 - This section has an illustration of a couple walking a dog showing an image insinuating that they are going to the dog daycare.
 
-![Home location](assets/images/readme/home-location-readme.png)
+![Home location](../docs/readme/home-location-readme.png)
 
 ### Eligibility Hero Section Content: <a name="eligibility-hero"></a>
 
@@ -227,14 +227,14 @@ The footer element is at the very bottom of every page, it includes the followin
 - This section also displays an h2 with the text eligibility showing the users that it's the eligibility section.
 - This section also displays a paragraph telling the user to scroll down and fill out the eligibility form to sign them up with Paw's Play.
 
-![Eligibility hero](assets/images/readme/eligibility-hero.png)
+![Eligibility hero](../docs/readme/eligibility-hero.png)
 
 ### Eligibility Video Section Content: <a name="eligibility-video"></a>
 
 - This section displays a video created for Paw's Play telling the user the eligibility requirements.
 - This video was created by an animation company on Fiverr for Paw's Play.
 
-![Eligibility video](assets/images/readme/eligibility-video.png)
+![Eligibility video](../docs/readme/eligibility-video.png)
 
 ### Eligibility Form Section Content: <a name="eligibility-form"></a>
 
@@ -242,28 +242,28 @@ The footer element is at the very bottom of every page, it includes the followin
 - The inputs with type="text" have labels that are only visible to screen readers for ascetic reasons.
 - Once the user fills out all required fields and clicks submit they will be navigated to the eligibility-submission.html page.
 
-![Eligibility form](assets/images/readme/eligibility-form.png)
+![Eligibility form](../docs/readme/eligibility-form.png)
 
 ### About Our Story Section Content: <a name="about-our-story"></a>
 
 - This section displays an illustration of the founder's Grace and Thomas Shelby (yes this is a reference to the Netflix series "The Peaky Blinders").
 - This section also displays a paragraph of how they got started and the vision behind the company; in summary, they both love dogs and want a safe and enjoyable environment for them.
 
-![About our story](assets/images/readme/about-our-story.png)
+![About our story](../docs/readme/about-our-story.png)
 
 ### About Our Mission Section Content: <a name="about-our-mission"></a>
 
 - This section displays an illustration of Grace and Thomas Shelby (founders) "planning" with sticky notes, showing the user a relevant image to the paragraph next to it.
 - This section also displays a paragraph showing the user the mission of Paw's Play and how it transcends pet care.
 
-![About our mission](assets/images/readme/our-mission-readme.png)
+![About our mission](../docs/readme/our-mission-readme.png)
 
 ### About Our Trainers Section Content: <a name="about-our-trainers"></a>
 
 - This section displays 3 sections containing information about the 3 trainers at Paw's Play.
 - Each section has an illustration of the trainer, their name, their profession and their biography.
 
-![About our trainers](assets/images/readme/our-trainers-readme.png)
+![About our trainers](../docs/readme/our-trainers-readme.png)
 
 ### About Join The Family Section Content: <a name="about-join-the-family"></a>
 
@@ -271,7 +271,7 @@ The footer element is at the very bottom of every page, it includes the followin
 - This section has a header saying "Join the Family" to convey that once you are a customer with Paw's Play, you become a family member too.
 - This section also has a paragraph that conveys the message from the header and also has a call to action to navigate the user to the eligibility page.
 
-![About join the family](assets/images//readme/join-the-family-readme.png)
+![About join the family](../docs/readme/join-the-family-readme.png)
 
 ## Future-Enhancements <a name="future-enhancements"></a>
 
@@ -281,7 +281,7 @@ The footer element is at the very bottom of every page, it includes the followin
 
 ## Testing Phase <a name="testing-phase"></a>
 
-I have moved the details for the testing of the Paw's Play site to [Testing.md](./TESTING.md)
+I have moved the details for the testing of the Paw's Play site to [Testing.md](../docs/TESTING.md)
 
 ## Deployment <a name="deployment"></a>
 
