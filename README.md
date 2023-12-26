@@ -5,11 +5,11 @@
 The Paw's Play website is a service for people who want a trusted daycare for their dogs, with eligibility criteria that separate it from the competition by only housing dogs that won't endanger dogs under its care.
 The users of this website will be able to find all relevant information about the daycare; for example an eligibility form, contact information and about Paw's Play.
 
+![Responsive Site](assets/images/readme/responsive-site.png)
+
 ## Previous Repository <a name="previous-repository"></a>
 
 1 week into developing my project I ran into an issue where I was not able to push my commits to my previous repository, so I made this one. I copied my already written code and committed the code in relatively large commit sizes to speed up my development process. I am mentioning this because the Distinction criteria states the following _"There are no very large commits which make it harder to understand the development process and could lead the assessor to suspect plagiarism"_. So I hope this eliminates any confusion.
-
-![Responsive Site](assets/images/readme/responsive-site.png)
 
 ## Table of contents
 
