@@ -5,7 +5,7 @@
 The Paw's Play website is a service for people who want a trusted daycare for their dogs, with eligibility criteria that separate it from the competition by only housing dogs that won't endanger dogs under its care.
 The users of this website will be able to find all relevant information about the daycare; for example an eligibility form, contact information and about Paw's Play.
 
-![Responsive Site](assets/images/readme/responsive-site.png)
+![Responsive Site](../docs/readme/responsive-site.png)
 
 ## Previous Repository <a name="previous-repository"></a>
 
@@ -102,17 +102,17 @@ The users of this website will be able to find all relevant information about th
 To organize my thoughts I created wireframes for this project. Below are links to each of the mobile and desktop versions of my site.
 
 - Desktop wireframes:
-  - [Home page](assets/images/readme/wireframes/paws-play-homepage.png)
-  - [About page](assets/images/readme/wireframes/paws-play-about-page.png)
-  - [Eligibility page](assets/images/readme/wireframes/paws-play-eligibility-page.png)
-  - [Eligibility submission page](assets/images/readme/wireframes/paws-play-eligibility-submission.png)
-  - [Newsletter page](assets/images/readme/wireframes/paws-play-newsletter-page.png)
+  - [Home page](../docs/readme/wireframes/paws-play-homepage.png)
+  - [About page](../docs/readme/wireframes/paws-play-about-page.png)
+  - [Eligibility page](../docs/readme/wireframes/paws-play-eligibility-page.png)
+  - [Eligibility submission page](../docs/readme/wireframes/paws-play-eligibility-submission.png)
+  - [Newsletter page](../docs/readme/wireframes/paws-play-newsletter-page.png)
 - Mobile wireframes:
-  - [Home page](assets/images/readme/wireframes/paws-play-mobile-homepage.png)
-  - [About page](assets/images/readme/wireframes/paws-play-mobile-aboutpage.png)
-  - [Eligibility page](assets/images/readme/wireframes/paws-play-mobile-eligibility-page.png)
-  - [Eligibility submission page](assets/images/readme/wireframes/paws-play-mobile-eligibility-submission-page.png)
-  - [Newsletter page](assets/images/readme/wireframes/paws-play-mobile-newsletter-submission-page.png)
+  - [Home page](../docs/readme/wireframes/paws-play-mobile-homepage.png)
+  - [About page](../docs/readme/wireframes/paws-play-mobile-aboutpage.png)
+  - [Eligibility page](../docs/readme/wireframes/paws-play-mobile-eligibility-page.png)
+  - [Eligibility submission page](../docs/readme/wireframes/paws-play-mobile-eligibility-submission-page.png)
+  - [Newsletter page](../docs/readme/wireframes/paws-play-mobile-newsletter-submission-page.png)
 
 ## Color Scheme: <a name="color-scheme"></a>
 
