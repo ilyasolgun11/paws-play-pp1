@@ -87,50 +87,50 @@ _CSS_ - [https://jigsaw.w3.org/css-validator/](https://jigsaw.w3.org/css-validat
 
 1. _index.html:_
 
-![index.html desktop](assets/images/testing/index.html-desktop.png)
+![index.html desktop](./testing/index.html-desktop.png)
 
 2. _about.html:_
 
-![about.html desktop](assets/images/testing/about.html-desktop.png)
+![about.html desktop](./testing/about.html-desktop.png)
 
 3. _eligibility.html:_
 
-![eligibility.html desktop](assets/images/testing/eligiblity-lighthouse.png)
+![eligibility.html desktop](./testing/eligiblity-lighthouse.png)
 
 4. _eligibility-submission.html:_
 
-![eligibility-submission.html desktop](assets/images/testing/eligibility-submission-lighthouse.png)
+![eligibility-submission.html desktop](./testing/eligibility-submission-lighthouse.png)
 
 5. _newsletter.html:_
 
-![newsletter.html desktop](assets/images/testing/news-letter.html-desktop.png)
+![newsletter.html desktop](./testing/news-letter.html-desktop.png)
 
 ### Mobile version <a name="mobile-version"></a>
 
 1. _index.html:_
 
-![index.html mobile](assets/images/testing/index.html-mobile.png)
+![index.html mobile](./testing/index.html-mobile.png)
 
 2. _eligibility.html:_
 
-![eligibility.html mobile](assets/images/testing/eligibility-submission-mobile.png)
+![eligibility.html mobile](./testing/eligibility-submission-mobile.png)
 
 3. _about.html:_
 
 - The performance score for the about page mobile light-score fluctuates between 90 and 93 due to the font-awesome CDN link and the google fonts import.
 
-![about.html mobile](assets/images/testing/about.html-mobile.png)
+![about.html mobile](./testing/about.html-mobile.png)
 
 4. _eligibility-submission.html:_
 
-![eligibility-submission.html mobile](assets/images/testing/eligibility-submission-mobile.png)
+![eligibility-submission.html mobile](./testing/eligibility-submission-mobile.png)
 
 5. _newsletter.html:_
 
-![newsletter.html mobile](assets/images/testing/newsletter.html-mobile.png)
+![newsletter.html mobile](./testing/newsletter.html-mobile.png)
 
 ## Accessability <a name="accessability"></a>
 
 In addition to the accessability score on light house I also used [WAVE - Web accessability evaluation tool](https://wave.webaim.org/) to check my pages for accessability and no errors were returned.
 
-### [Return to README.md](/docs/README.md)
+### [Return to README.md](./README.md)
