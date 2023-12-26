@@ -5,19 +5,24 @@
 The Paw's Play website is a service for people who want a trusted daycare for their dogs, with eligibility criteria that separate it from the competition by only housing dogs that won't endanger dogs under its care.
 The users of this website will be able to find all relevant information about the daycare; for example an eligibility form, contact information and about Paw's Play.
 
+## Previous Repository <a name="previous-repository"></a>
+
+1 week into developing my project I ran into an issue where I was not able to push my commits to my previous repository, so I made this one. I copied my already written code and committed the code in relatively large commit sizes to speed up my development process. I am mentioning this because the Distinction criteria states the following _"There are no very large commits which make it harder to understand the development process and could lead the assessor to suspect plagiarism"_. So I hope this eliminates any confusion.
+
 ![Responsive Site](assets/images/readme/responsive-site.png)
 
 ## Table of contents
 
 1. [**Site Overview**](#site-overview)
-2. [**Planning stage**](#planning-stage)
+2. [**Previous Repository**](#previous-repository)
+3. [**Planning stage**](#planning-stage)
    - [**_Site aims_**](#site-aims)
    - [**_Target audience_**](#target-audience)
    - [**_User stories_**](#user-stories)
    - [**_How I will achieve this:_**](#how-i-will-achieve-this)
      - [**_Wireframes_**](#wireframes)
    - [**_Color scheme_**](#color-scheme)
-3. [**Elements used on all pages**](#elements-used-on-all-pages)
+4. [**Elements used on all pages**](#elements-used-on-all-pages)
    - [**Header element**](#header-element)
      - [**_Logo_**](#logo)
      - [**_Navigation_**](#navigation)
@@ -27,7 +32,7 @@ The users of this website will be able to find all relevant information about th
      - [**_Newsletter_**](#newsletter)
      - [**_Copyright_**](#copyright)
    - [**Typography**](#typography)
-4. [**Individual page elements**](#individual-page-elements)
+5. [**Individual page elements**](#individual-page-elements)
    - [**Home hero section**](#home-hero)
    - [**Home eligibility section**](#home-eligibility)
    - [**Home what we do best section**](#home-what-we-do-best)
@@ -39,10 +44,10 @@ The users of this website will be able to find all relevant information about th
    - [**About our mission section**](#about-our-mission)
    - [**About our trainer's section**](#about-our-trainers)
    - [**About join the family section**](#about-join-the-family)
-5. [**Future enhancements**](#future-enhancements)
-6. [**Testing phase**](#testing-phase)
-7. [**Deployment**](#deployment)
-8. [**Credits**](#credits)
+6. [**Future enhancements**](#future-enhancements)
+7. [**Testing phase**](#testing-phase)
+8. [**Deployment**](#deployment)
+9. [**Credits**](#credits)
    - [**_Honorable mentions_**](#honorable-mentions)
    - [**_General reference_**](#general-reference)
    - [**_Content_**](#content)
@@ -81,7 +86,7 @@ The users of this website will be able to find all relevant information about th
   1. General details about their dog; their name, age, breed, weight, have they been neutered or spayed and are there any existing medical conditions?
   2. Vaccination details; Is your dog up-to-date on vaccinations and have they received recent treatment for ticks/fleas?
   3. Behavior details; how does your dog typically interact with other dogs and how does your dog typically interact with other people?
-  4. Socialization details; have they previously attended a daycare? and do they have knowledge of commands?
+  4. Socialization details; have they previously attended a daycare? and do they know commands?
   5. Owner details; first name, last name, email and phone number
 
 - The About Us page provides details of the founders and why they started Paw's play to create trust with the user
@@ -242,7 +247,7 @@ The footer element is at the very bottom of every page, it includes the followin
 ### About Our Story Section Content: <a name="about-our-story"></a>
 
 - This section displays an illustration of the founder's Grace and Thomas Shelby (yes this is a reference to the Netflix series "The Peaky Blinders").
-- This section also displays a paragraph of how they got started and the vision behind the company; in a short summary they both love dogs and want a safe and enjoyable environment for them.
+- This section also displays a paragraph of how they got started and the vision behind the company; in summary, they both love dogs and want a safe and enjoyable environment for them.
 
 ![About our story](assets/images/readme/about-our-story.png)
 
@@ -280,7 +285,7 @@ I have moved the details for the testing of the Paw's Play site to [Testing.md](
 
 ## Deployment <a name="deployment"></a>
 
-I deployed the site on GitGub using the following procedure:
+I deployed the site on GitHub using the following procedure:
 
 1. Once on the project's repository, I clicked on the _settings_ tab.
 2. Then select the _Pages_ tab.
