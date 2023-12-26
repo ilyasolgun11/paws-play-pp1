@@ -183,14 +183,15 @@ header {
 }
 
 .hero-img-container {
-  background: url("../images/casual-life-3d-young-woman-sitting-on-ground-and-petting-dog.webp")
-    center/contain no-repeat;
+  background: url("../images/astronaut-dog-floating.webp") center/contain
+    no-repeat;
   border-radius: 20px;
   display: flex;
   justify-content: flex-start;
   align-items: center;
   width: 70%;
   height: 400px;
+  margin-top: 30px;
 }
 
 .hero-content {
@@ -1842,8 +1843,8 @@ header {
   }
 
   .hero-img-container {
-    width: 350px;
-    height: 350px;
+    width: 300px;
+    height: 300px;
   }
 
   .hero-content {
