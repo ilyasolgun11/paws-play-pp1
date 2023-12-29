@@ -27,6 +27,7 @@ During development i tested my project in various ways such as:
   1. Google chrome
   2. Opera GX
   3. Bing
+  4. Safari
 
 - I then used the dev tools on these browsers to test different screen sizes for for responsiveness.
 
