@@ -22,7 +22,7 @@ During development i tested my project in various ways such as:
 
 ### Manual Testing: <a name="during-development-manual-testing"></a>
 
-- During testing i used 3 different browsers to ensure cross-compatibility such as:
+- During testing i used 4 different browsers to ensure cross-compatibility such as:
 
   1. Google chrome
   2. Opera GX
